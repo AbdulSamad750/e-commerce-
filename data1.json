@@ -1,0 +1,3268 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone X",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/3.png"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Samsung Galaxy S8",
+      "description": "A powerful smartphone with stunning features",
+      "price": 599,
+      "discountPercentage": 10.5,
+      "rating": 4.89,
+      "stock": 65,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/3.png"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Xiaomi Mi 9",
+      "description": "A smartphone that redefines value for money",
+      "price": 499,
+      "discountPercentage": 13.45,
+      "rating": 4.75,
+      "stock": 120,
+      "brand": "Xiaomi",
+      "category": "smartphones",
+      "thumbnail": "https://www.gizmochina.com/wp-content/uploads/2019/02/Xiaomi-Mi-9-1.jpg",
+      "images": [
+        "https://i01.appmifile.com/webfile/globalimg/products/pc/mi9/phone-1-global.png",
+        "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/02/24/10/xiaomi-mi-9.png",
+        "https://www.gizmochina.com/wp-content/uploads/2019/02/Xiaomi-Mi-9-1.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Huawei P30",
+      "description": "A stylish phone with a high-quality camera",
+      "price": 679,
+      "discountPercentage": 8.75,
+      "rating": 4.58,
+      "stock": 84,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://www.deepspecs.com/wp-content/uploads/2019/01/8-huawei-p30-deepspecs-com.jpg",
+      "images": [
+        "https://www.91-img.com/pictures/131928-v10-huawei-p30-pro-mobile-phone-hres-6.jpg",
+        "https://reapp.com.gh/wp-content/uploads/2020/10/Screenshot_20201007-160646.png",
+        "https://www.deepspecs.com/wp-content/uploads/2019/01/8-huawei-p30-deepspecs-com.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "OnePlus 7 Pro",
+      "description": "Flagship performance with a sleek design",
+      "price": 749,
+      "discountPercentage": 9.15,
+      "rating": 4.8,
+      "stock": 56,
+      "brand": "OnePlus",
+      "category": "smartphones",
+      "thumbnail": "https://phonesdata.com/files/models/OnePlus--7-Pro-489.jpg",
+      "images": [
+        "https://bestchineseproducts.com/wp-content/uploads/2020/09/Oneplus-7T-Pro.png",
+        "https://www.ephotozine.com/articles/oneplus-7-pro-review--in-progress--33592/images/highres-OnePlus-7-Pro-5_1558446208.jpg",
+        "https://phonesdata.com/files/models/OnePlus--7-Pro-489.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Sony Xperia Z5",
+      "description": "A classic smartphone with a great camera",
+      "price": 499,
+      "discountPercentage": 15,
+      "rating": 4.1,
+      "stock": 72,
+      "brand": "Sony",
+      "category": "smartphones",
+      "thumbnail": "https://www.bhphotovideo.com/images/images2000x2000/sony_1298_5589_xperia_z5_e6603_32gb_1212082.jpg",
+      "images": [
+        "https://m.phonegg.com/62/6287b.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2012/06/xp-hand.jpg",
+        "https://www.bhphotovideo.com/images/images2000x2000/sony_1298_5589_xperia_z5_e6603_32gb_1212082.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Google Pixel 4",
+      "description": "A clean and fast Android experience",
+      "price": 599,
+      "discountPercentage": 10.75,
+      "rating": 4.67,
+      "stock": 40,
+      "brand": "Google",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/71xlN-a7s0L._SL1500_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71xlN-a7s0L._SL1500_.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Q5dsTznwi4AZBpZLxkFak4.jpg",
+        "https://www.ephotozine.com/articles/google-pixel-4a-5g-smartphone-review-35066/images/highres-PA220054_1603364598.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Nokia 7.2",
+      "description": "A reliable phone with long battery life",
+      "price": 399,
+      "discountPercentage": 17.5,
+      "rating": 4.35,
+      "stock": 89,
+      "brand": "Nokia",
+      "category": "smartphones",
+      "thumbnail": "https://phonesdata.com/files/models/Nokia--7.2-187.png",
+      "images": [
+        "https://m.media-amazon.com/images/I/419nEzRZ2mL._SL500_.jpg",
+        "https://www.phoneworld.com.pk/wp-content/uploads/2019/10/IMG_20191029_122327.jpg",
+        "https://phonesdata.com/files/models/Nokia--7.2-187.png"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "LG G8 ThinQ",
+      "description": "An innovative smartphone with AI features",
+      "price": 699,
+      "discountPercentage": 12,
+      "rating": 4.45,
+      "stock": 62,
+      "brand": "LG",
+      "category": "smartphones",
+      "thumbnail": "https://www.intellectdigest.in/wp-content/uploads/2019/09/sdzv-DZ.jpg",
+      "images": [
+        "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/10/V40-all-angles-1017x1024.jpg",
+        "https://www.androidauthority.com/wp-content/uploads/2019/02/LG-G8-ThinQ-7-of-X.jpg",
+        "https://www.intellectdigest.in/wp-content/uploads/2019/09/sdzv-DZ.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Motorola Moto G7",
+      "description": "A budget-friendly smartphone with great features",
+      "price": 299,
+      "discountPercentage": 18.25,
+      "rating": 4.2,
+      "stock": 78,
+      "brand": "Motorola",
+      "category": "smartphones",
+      "thumbnail": "https://resources.claroshop.com/medios-plazavip/s2/10243/1902697/5fb3aec313f6a-be543b4d-367f-4bfa-a92b-dd450d7966ef-1600x1600.jpg",
+      "images": [
+        "https://img.ibxk.com.br/2019/02/07/07111640877059.jpg",
+        "https://images.frandroid.com/wp-content/uploads/2019/07/motorola-moto-g7-power-4.jpg",
+        "https://resources.claroshop.com/medios-plazavip/s2/10243/1902697/5fb3aec313f6a-be543b4d-367f-4bfa-a92b-dd450d7966ef-1600x1600.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Realme X50 Pro",
+      "description": "A 5G smartphone with flagship specs at a budget price",
+      "price": 499,
+      "discountPercentage": 14.25,
+      "rating": 4.45,
+      "stock": 100,
+      "brand": "Realme",
+      "category": "smartphones",
+      "thumbnail": "https://mimelon.com/uploads/catalog/Product/1588596320744.jpg",
+      "images": [
+        "https://www.bdprice.com.bd/wp-content/uploads/2020/06/Realme-X50t-5G.jpg",
+        "https://lh3.googleusercontent.com/-XXuwfZZ57CI/XqWz5nwKQtI/AAAAAAAAGHA/Xqa354vrPxocnNt35bMPe-tNPe0Sh-P6QCLcBGAsYHQ/s1600/1587917795771676-0.png",
+        "https://mimelon.com/uploads/catalog/Product/1588596320744.jpg"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Asus Zenfone 6",
+      "description": "A phone with a unique rotating camera",
+      "price": 699,
+      "discountPercentage": 9.85,
+      "rating": 4.5,
+      "stock": 54,
+      "brand": "Asus",
+      "category": "smartphones",
+      "thumbnail": "https://phonesdata.com/files/models/Asus--Zenfone-6-ZS630KL-463.png",
+      "images": [
+        "https://www.chooseyourmobile.com/wp-content/uploads/2020/07/Asus-6Z-zenphone.jpg",
+        "https://philnews.ph/wp-content/uploads/2020/12/Asus-Zenfone-6-ZS630KL-specs-price-Philippines-5.jpg",
+        "https://phonesdata.com/files/models/Asus--Zenfone-6-ZS630KL-463.png"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Lenovo Z6 Pro",
+      "description": "A high-end smartphone with quad cameras",
+      "price": 579,
+      "discountPercentage": 13,
+      "rating": 4.7,
+      "stock": 65,
+      "brand": "Lenovo",
+      "category": "smartphones",
+      "thumbnail": "https://www.pinoytechnoguide.com/wp-content/uploads/2019/04/Lenovo-Z6-Pro-FULL-IMAGE.jpg",
+      "images": [
+        "https://www.schmidtisblog.de/wp-content/uploads/2019/04/Lenovo-Z6-Pro-6.jpg",
+        "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Lenovo_Z5_Pro_GT_2.jpg",
+        "https://www.gizchina.com/wp-content/uploads/images/2019/07/Redmi-K20-Pro-.jpg"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Oppo Reno 4",
+      "description": "Sleek design with premium performance",
+      "price": 459,
+      "discountPercentage": 11.2,
+      "rating": 4.6,
+      "stock": 70,
+      "brand": "Oppo",
+      "category": "smartphones",
+      "thumbnail": "https://www.gizmochina.com/wp-content/uploads/2020/07/OPPO-Reno4-Global-Galactic-Blue-1024x1024.png",
+      "images": [
+        "https://smadreview.com/wp-content/uploads/2023/04/tecno-camon-18.jpg",
+        "https://telefononews.it/wp-content/uploads/2020/10/Oppo-Reno-4-Pro-2048x1320.png",
+        "https://gadgetsinnepal.b-cdn.net/wp-content/uploads/2020/07/oppo-reno-4-pro-price-in-nepal-000001.jpg"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Vivo V21",
+      "description": "A stylish phone with great selfie camera",
+      "price": 369,
+      "discountPercentage": 16.8,
+      "rating": 4.4,
+      "stock": 95,
+      "brand": "Vivo",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/vivo/thumb/128630-2_large.jpg",
+      "images": [
+        "https://storage.googleapis.com/landtop_prod/product/1553/product_image/586931bb39ebf693bcf54e97d68a9cf0.png.",
+        "https://www.bolnews.com/wp-content/uploads/2022/02/gsmarena_027.jpeg",
+        "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/vivo/thumb/128630-2_large.jpg"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "ZTE Axon 10 Pro",
+      "description": "A smartphone with strong performance and affordability",
+      "price": 559,
+      "discountPercentage": 12.1,
+      "rating": 4.5,
+      "stock": 45,
+      "brand": "ZTE",
+      "category": "smartphones",
+      "thumbnail": "https://dummyjson.com/image/i/products/16/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/16/1.jpg",
+        "https://dummyjson.com/image/i/products/16/2.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Honor View 20",
+      "description": "A punch-hole camera with a powerful processor",
+      "price": 499,
+      "discountPercentage": 10.75,
+      "rating": 4.3,
+      "stock": 73,
+      "brand": "Honor",
+      "category": "smartphones",
+      "thumbnail": "https://dummyjson.com/image/i/products/17/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/projpgducts/17/1.jpg",
+        "https://dummyjson.com/image/i/products/17/2.jpg"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Apple MacBook Air",
+      "description": "Lightweight laptop with retina display",
+      "price": 999,
+      "discountPercentage": 5.5,
+      "rating": 4.8,
+      "stock": 55,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/18/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/18/1.jpg",
+        "https://dummyjson.com/image/i/products/18/2.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Dell XPS 13",
+      "description": "A powerful laptop with infinity edge display",
+      "price": 1199,
+      "discountPercentage": 7.5,
+      "rating": 4.7,
+      "stock": 20,
+      "brand": "Dell",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/19/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/19/1.jpg",
+        "https://dummyjson.com/image/i/products/19/2.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "HP Spectre x360",
+      "description": "A convertible laptop with great performance",
+      "price": 1299,
+      "discountPercentage": 6.25,
+      "rating": 4.6,
+      "stock": 30,
+      "brand": "HP",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/20/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/20/1.jpg",
+        "https://dummyjson.com/image/i/products/20/2.jpg"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Acer Aspire 7",
+      "description": "Gaming laptop with great value",
+      "price": 799,
+      "discountPercentage": 15,
+      "rating": 4.4,
+      "stock": 40,
+      "brand": "Acer",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/21/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/21/1.jpg",
+        "https://dummyjson.com/image/i/products/21/2.jpg"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Samsung Galaxy Tab S6",
+      "description": "Powerful tablet with stylus support",
+      "price": 599,
+      "discountPercentage": 12.5,
+      "rating": 4.7,
+      "stock": 85,
+      "brand": "Samsung",
+      "category": "tablets",
+      "thumbnail": "https://dummyjson.com/image/i/products/22/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/22/1.jpg",
+        "https://dummyjson.com/image/i/products/22/2.jpg"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "iPad Pro",
+      "description": "Powerful tablet with M1 chip",
+      "price": 1299,
+      "discountPercentage": 5,
+      "rating": 4.9,
+      "stock": 50,
+      "brand": "Apple",
+      "category": "tablets",
+      "thumbnail": "https://dummyjson.com/image/i/products/23/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/23/1.jpg",
+        "https://dummyjson.com/image/i/products/23/2.jpg"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Google Nest Hub",
+      "description": "Smart home display with voice assistant",
+      "price": 129,
+      "discountPercentage": 8.75,
+      "rating": 4.6,
+      "stock": 90,
+      "brand": "Google",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/24/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/24/1.jpg",
+        "https://dummyjson.com/image/i/products/24/2.jpg"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Amazon Echo Dot",
+      "description": "Compact smart speaker with Alexa",
+      "price": 49,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 120,
+      "brand": "Amazon",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/25/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/25/1.jpg",
+        "https://dummyjson.com/image/i/products/25/2.jpg"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Fitbit Charge 4",
+      "description": "Fitness tracker with GPS",
+      "price": 149,
+      "discountPercentage": 7.5,
+      "rating": 4.3,
+      "stock": 90,
+      "brand": "Fitbit",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/26/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/26/1.jpg",
+        "https://dummyjson.com/image/i/products/26/2.jpg"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Garmin Fenix 6",
+      "description": "Multisport GPS watch",
+      "price": 699,
+      "discountPercentage": 6.25,
+      "rating": 4.8,
+      "stock": 40,
+      "brand": "Garmin",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/27/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/27/1.jpg",
+        "https://dummyjson.com/image/i/products/27/2.jpg"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Sony WH-1000XM4",
+      "description": "Wireless noise-cancelling headphones",
+      "price": 349,
+      "discountPercentage": 10.5,
+      "rating": 4.7,
+      "stock": 80,
+      "brand": "Sony",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/28/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/28/1.jpg",
+        "https://dummyjson.com/image/i/products/28/2.jpg"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Bose SoundLink Revolve",
+      "description": "Portable Bluetooth speaker with 360° sound",
+      "price": 199,
+      "discountPercentage": 12.5,
+      "rating": 4.5,
+      "stock": 90,
+      "brand": "Bose",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/29/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/29/1.jpg",
+        "https://dummyjson.com/image/i/products/29/2.jpg"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "JBL Flip 5",
+      "description": "Waterproof Bluetooth speaker",
+      "price": 129,
+      "discountPercentage": 8.75,
+      "rating": 4.4,
+      "stock": 100,
+      "brand": "JBL",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/30/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/30/1.jpg",
+        "https://dummyjson.com/image/i/products/30/2.jpg"
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Apple Watch Series 6",
+      "description": "Advanced smartwatch with health monitoring",
+      "price": 399,
+      "discountPercentage": 5.5,
+      "rating": 4.9,
+      "stock": 60,
+      "brand": "Apple",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/31/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/31/1.jpg",
+        "https://dummyjson.com/image/i/products/31/2.jpg"
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Samsung Galaxy Watch 3",
+      "description": "Stylish smartwatch with health features",
+      "price": 349,
+      "discountPercentage": 6.25,
+      "rating": 4.6,
+      "stock": 85,
+      "brand": "Samsung",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/32/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/32/1.jpg",
+        "https://dummyjson.com/image/i/products/32/2.jpg"
+      ]
+    },
+    {
+      "id": "33",
+      "title": "GoPro Hero 9",
+      "description": "4K action camera with advanced features",
+      "price": 399,
+      "discountPercentage": 7.5,
+      "rating": 4.8,
+      "stock": 40,
+      "brand": "GoPro",
+      "category": "cameras",
+      "thumbnail": "https://dummyjson.com/image/i/products/33/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/33/1.jpg",
+        "https://dummyjson.com/image/i/products/33/2.jpg"
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Canon EOS 90D",
+      "description": "High-performance DSLR camera",
+      "price": 1199,
+      "discountPercentage": 8,
+      "rating": 4.9,
+      "stock": 30,
+      "brand": "Canon",
+      "category": "cameras",
+      "thumbnail": "https://dummyjson.com/image/i/products/34/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/34/1.jpg",
+        "https://dummyjson.com/image/i/products/34/2.jpg"
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Sony Alpha 7 III",
+      "description": "Mirrorless camera with stunning image quality",
+      "price": 1999,
+      "discountPercentage": 5.5,
+      "rating": 4.8,
+      "stock": 15,
+      "brand": "Sony",
+      "category": "cameras",
+      "thumbnail": "https://dummyjson.com/image/i/products/35/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/35/1.jpg",
+        "https://dummyjson.com/image/i/products/35/2.jpg"
+      ]
+    },
+    {
+      "id": "36",
+      "title": "DJI Mavic Air 2",
+      "description": "Compact drone with 4K camera",
+      "price": 799,
+      "discountPercentage": 9,
+      "rating": 4.7,
+      "stock": 25,
+      "brand": "DJI",
+      "category": "drones",
+      "thumbnail": "https://dummyjson.com/image/i/products/36/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/36/1.jpg",
+        "https://dummyjson.com/image/i/products/36/2.jpg"
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Apple AirPods Pro",
+      "description": "Active noise-cancelling wireless earphones",
+      "price": 249,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 100,
+      "brand": "Apple",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/37/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/37/1.jpg",
+        "https://dummyjson.com/image/i/products/37/2.jpg"
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Beats Solo Pro",
+      "description": "Wireless noise-cancelling on-ear headphones",
+      "price": 299,
+      "discountPercentage": 12,
+      "rating": 4.5,
+      "stock": 75,
+      "brand": "Beats",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/38/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/38/1.jpg",
+        "https://dummyjson.com/image/i/products/38/2.jpg"
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Microsoft Surface Laptop 3",
+      "description": "Sleek laptop with touchscreen display",
+      "price": 999,
+      "discountPercentage": 7.5,
+      "rating": 4.6,
+      "stock": 60,
+      "brand": "Microsoft",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/39/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/39/1.jpg",
+        "https://dummyjson.com/image/i/products/39/2.jpg"
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Razer Blade 15",
+      "description": "Powerful gaming laptop with 144Hz display",
+      "price": 1999,
+      "discountPercentage": 6.25,
+      "rating": 4.7,
+      "stock": 35,
+      "brand": "Razer",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/40/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/40/1.jpg",
+        "https://dummyjson.com/image/i/products/40/2.jpg"
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Logitech MX Master 3",
+      "description": "Advanced wireless mouse for precision",
+      "price": 99,
+      "discountPercentage": 8,
+      "rating": 4.8,
+      "stock": 150,
+      "brand": "Logitech",
+      "category": "accessories",
+      "thumbnail": "https://dummyjson.com/image/i/products/41/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/41/1.jpg",
+        "https://dummyjson.com/image/i/products/41/2.jpg"
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Corsair K95 RGB",
+      "description": "Mechanical gaming keyboard with RGB lighting",
+      "price": 199,
+      "discountPercentage": 9.5,
+      "rating": 4.7,
+      "stock": 70,
+      "brand": "Corsair",
+      "category": "accessories",
+      "thumbnail": "https://dummyjson.com/image/i/products/42/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/42/1.jpg",
+        "https://dummyjson.com/image/i/products/42/2.jpg"
+      ]
+    },
+    {
+      "id": "43",
+      "title": "HyperX Cloud II",
+      "description": "Comfortable gaming headset with 7.1 surround sound",
+      "price": 149,
+      "discountPercentage": 11,
+      "rating": 4.6,
+      "stock": 90,
+      "brand": "HyperX",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/43/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/43/1.jpg",
+        "https://dummyjson.com/image/i/products/43/2.jpg"
+      ]
+    },
+    {
+      "id": "44",
+      "title": "SteelSeries Rival 600",
+      "description": "Gaming mouse with dual optical sensors",
+      "price": 89,
+      "discountPercentage": 12.5,
+      "rating": 4.7,
+      "stock": 120,
+      "brand": "SteelSeries",
+      "category": "accessories",
+      "thumbnail": "https://dummyjson.com/image/i/products/44/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/44/1.jpg",
+        "https://dummyjson.com/image/i/products/44/2.jpg"
+      ]
+    },
+    {
+      "id": "45",
+      "title": "Apple TV 4K",
+      "description": "Streaming device with 4K HDR support",
+      "price": 179,
+      "discountPercentage": 5,
+      "rating": 4.8,
+      "stock": 100,
+      "brand": "Apple",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/45/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/45/1.jpg",
+        "https://dummyjson.com/image/i/products/45/2.jpg"
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Google Chromecast",
+      "description": "Stream content wirelessly to your TV",
+      "price": 35,
+      "discountPercentage": 8,
+      "rating": 4.5,
+      "stock": 110,
+      "brand": "Google",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/46/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/46/1.jpg",
+        "https://dummyjson.com/image/i/products/46/2.jpg"
+      ]
+    },
+    {
+      "id": "47",
+      "title": "Nikon D850",
+      "description": "Full-frame DSLR camera with high resolution",
+      "price": 2999,
+      "discountPercentage": 7,
+      "rating": 4.9,
+      "stock": 12,
+      "brand": "Nikon",
+      "category": "cameras",
+      "thumbnail": "https://dummyjson.com/image/i/products/47/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/47/1.jpg",
+        "https://dummyjson.com/image/i/products/47/2.jpg"
+      ]
+    },
+    {
+      "id": "48",
+      "title": "Huawei MatePad Pro",
+      "description": "High-performance tablet with stylus support",
+      "price": 699,
+      "discountPercentage": 9.5,
+      "rating": 4.6,
+      "stock": 45,
+      "brand": "Huawei",
+      "category": "tablets",
+      "thumbnail": "https://dummyjson.com/image/i/products/48/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/48/1.jpg",
+        "https://dummyjson.com/image/i/products/48/2.jpg"
+      ]
+    },
+    {
+      "id": "49",
+      "title": "Lenovo Legion 5",
+      "description": "Gaming laptop with Ryzen 7 processor",
+      "price": 1299,
+      "discountPercentage": 8.25,
+      "rating": 4.7,
+      "stock": 50,
+      "brand": "Lenovo",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/49/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/49/1.jpg",
+        "https://dummyjson.com/image/i/products/49/2.jpg"
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Oculus Quest 2",
+      "description": "All-in-one VR gaming headset",
+      "price": 399,
+      "discountPercentage": 6,
+      "rating": 4.8,
+      "stock": 100,
+      "brand": "Oculus",
+      "category": "gaming",
+      "thumbnail": "https://dummyjson.com/image/i/products/50/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/50/1.jpg",
+        "https://dummyjson.com/image/i/products/50/2.jpg"
+      ]
+    },
+    {
+      "id": "51",
+      "title": "Fitbit Charge 5",
+      "description": "Advanced fitness tracker with heart rate monitoring",
+      "price": 149,
+      "discountPercentage": 9,
+      "rating": 4.7,
+      "stock": 90,
+      "brand": "Fitbit",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/51/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/51/1.jpg",
+        "https://dummyjson.com/image/i/products/51/2.jpg"
+      ]
+    },
+    {
+      "id": "52",
+      "title": "Bose QuietComfort 35 II",
+      "description": "Wireless noise-cancelling headphones",
+      "price": 299,
+      "discountPercentage": 12.5,
+      "rating": 4.8,
+      "stock": 55,
+      "brand": "Bose",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/52/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/52/1.jpg",
+        "https://dummyjson.com/image/i/products/52/2.jpg"
+      ]
+    },
+    {
+      "id": "53",
+      "title": "Nintendo Switch",
+      "description": "Hybrid gaming console for TV and handheld play",
+      "price": 299,
+      "discountPercentage": 5,
+      "rating": 4.9,
+      "stock": 200,
+      "brand": "Nintendo",
+      "category": "gaming",
+      "thumbnail": "https://dummyjson.com/image/i/products/53/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/53/1.jpg",
+        "https://dummyjson.com/image/i/products/53/2.jpg"
+      ]
+    },
+    {
+      "id": "54",
+      "title": "Amazon Echo Show 8",
+      "description": "Smart display with Alexa and video calling",
+      "price": 129,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 80,
+      "brand": "Amazon",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/54/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/54/1.jpg",
+        "https://dummyjson.com/image/i/products/54/2.jpg"
+      ]
+    },
+    {
+      "id": "55",
+      "title": "Sony WH-1000XM4",
+      "description": "Industry-leading noise-cancelling headphones",
+      "price": 349,
+      "discountPercentage": 7.5,
+      "rating": 4.9,
+      "stock": 65,
+      "brand": "Sony",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/55/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/55/1.jpg",
+        "https://dummyjson.com/image/i/products/55/2.jpg"
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Samsung Galaxy Buds Live",
+      "description": "Wireless earbuds with active noise cancelling",
+      "price": 179,
+      "discountPercentage": 9,
+      "rating": 4.6,
+      "stock": 120,
+      "brand": "Samsung",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/56/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/56/1.jpg",
+        "https://dummyjson.com/image/i/products/56/2.jpg"
+      ]
+    },
+    {
+      "id": "57",
+      "title": "Dell XPS 13",
+      "description": "Ultra-thin laptop with stunning display",
+      "price": 1499,
+      "discountPercentage": 5.5,
+      "rating": 4.8,
+      "stock": 35,
+      "brand": "Dell",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/57/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/57/1.jpg",
+        "https://dummyjson.com/image/i/products/57/2.jpg"
+      ]
+    },
+    {
+      "id": "58",
+      "title": "Asus ROG Strix G15",
+      "description": "High-performance gaming laptop with RGB lighting",
+      "price": 1399,
+      "discountPercentage": 6.5,
+      "rating": 4.7,
+      "stock": 40,
+      "brand": "Asus",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/58/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/58/1.jpg",
+        "https://dummyjson.com/image/i/products/58/2.jpg"
+      ]
+    },
+    {
+      "id": "59",
+      "title": "HP Spectre x360",
+      "description": "Convertible laptop with stunning design",
+      "price": 1699,
+      "discountPercentage": 8,
+      "rating": 4.9,
+      "stock": 28,
+      "brand": "HP",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/59/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/59/1.jpg",
+        "https://dummyjson.com/image/i/products/59/2.jpg"
+      ]
+    },
+    {
+      "id": "60",
+      "title": "Sony PlayStation 5",
+      "description": "Next-gen gaming console with 8K support",
+      "price": 499,
+      "discountPercentage": 2.5,
+      "rating": 4.9,
+      "stock": 500,
+      "brand": "Sony",
+      "category": "gaming",
+      "thumbnail": "https://dummyjson.com/image/i/products/60/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/60/1.jpg",
+        "https://dummyjson.com/image/i/products/60/2.jpg"
+      ]
+    },
+    {
+      "id": "61",
+      "title": "Roku Streaming Stick+",
+      "description": "Portable streaming device with 4K HDR support",
+      "price": 49,
+      "discountPercentage": 15,
+      "rating": 4.6,
+      "stock": 80,
+      "brand": "Roku",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/61/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/61/1.jpg",
+        "https://dummyjson.com/image/i/products/61/2.jpg"
+      ]
+    },
+    {
+      "id": "62",
+      "title": "Logitech C920",
+      "description": "HD webcam with clear video and audio",
+      "price": 79,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 140,
+      "brand": "Logitech",
+      "category": "accessories",
+      "thumbnail": "https://dummyjson.com/image/i/products/62/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/62/1.jpg",
+        "https://dummyjson.com/image/i/products/62/2.jpg"
+      ]
+    },
+    {
+      "id": "63",
+      "title": "Elgato Stream Deck",
+      "description": "Customizable control panel for streaming",
+      "price": 149,
+      "discountPercentage": 7,
+      "rating": 4.8,
+      "stock": 75,
+      "brand": "Elgato",
+      "category": "accessories",
+      "thumbnail": "https://dummyjson.com/image/i/products/63/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/63/1.jpg",
+        "https://dummyjson.com/image/i/products/63/2.jpg"
+      ]
+    },
+    {
+      "id": "64",
+      "title": "Anker PowerCore 10000",
+      "description": "Portable charger with fast charging support",
+      "price": 29,
+      "discountPercentage": 12,
+      "rating": 4.6,
+      "stock": 300,
+      "brand": "Anker",
+      "category": "accessories",
+      "thumbnail": "https://dummyjson.com/image/i/products/64/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/64/1.jpg",
+        "https://dummyjson.com/image/i/products/64/2.jpg"
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Ring Video Doorbell 3",
+      "description": "Smart doorbell with HD video and motion detection",
+      "price": 199,
+      "discountPercentage": 12,
+      "rating": 4.6,
+      "stock": 300,
+      "brand": "Anker",
+      "category": "accessories",
+      "thumbnail": "https://dummyjson.com/image/i/products/65/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/65/1.jpg",
+        "https://dummyjson.com/image/i/products/65/2.jpg"
+      ]
+    },
+    {
+      "id": "66",
+      "title": "Eero Pro 6",
+      "description": "Tri-band mesh Wi-Fi system for whole home coverage",
+      "price": 299,
+      "discountPercentage": 7.5,
+      "rating": 4.8,
+      "stock": 70,
+      "brand": "Eero",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/66/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/66/1.jpg",
+        "https://dummyjson.com/image/i/products/66/2.jpg"
+      ]
+    },
+    {
+      "id": "67",
+      "title": "Philips Hue White and Color Ambiance",
+      "description": "Smart LED light bulbs with color control",
+      "price": 179,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 85,
+      "brand": "Philips",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/67/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/67/1.jpg",
+        "https://dummyjson.com/image/i/products/67/2.jpg"
+      ]
+    },
+    {
+      "id": "68",
+      "title": "Nest Learning Thermostat",
+      "description": "Smart thermostat with learning capability",
+      "price": 249,
+      "discountPercentage": 6.5,
+      "rating": 4.6,
+      "stock": 60,
+      "brand": "Nest",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/68/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/68/1.jpg",
+        "https://dummyjson.com/image/i/products/68/2.jpg"
+      ]
+    },
+    {
+      "id": "69",
+      "title": "Apple iPad Air",
+      "description": "Powerful tablet with A14 Bionic chip",
+      "price": 599,
+      "discountPercentage": 5.5,
+      "rating": 4.8,
+      "stock": 45,
+      "brand": "Apple",
+      "category": "tablets",
+      "thumbnail": "https://dummyjson.com/image/i/products/69/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/69/1.jpg",
+        "https://dummyjson.com/image/i/products/69/2.jpg"
+      ]
+    },
+    {
+      "id": "70",
+      "title": "Microsoft Surface Pro 7",
+      "description": "Versatile 2-in-1 laptop with a detachable keyboard",
+      "price": 799,
+      "discountPercentage": 7,
+      "rating": 4.7,
+      "stock": 38,
+      "brand": "Microsoft",
+      "category": "tablets",
+      "thumbnail": "https://dummyjson.com/image/i/products/70/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/70/1.jpg",
+        "https://dummyjson.com/image/i/products/70/2.jpg"
+      ]
+    },
+    {
+      "id": "71",
+      "title": "Samsung Galaxy Tab S7",
+      "description": "High-performance tablet with S Pen included",
+      "price": 649,
+      "discountPercentage": 8,
+      "rating": 4.7,
+      "stock": 40,
+      "brand": "Samsung",
+      "category": "tablets",
+      "thumbnail": "https://dummyjson.com/image/i/products/71/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/71/1.jpg",
+        "https://dummyjson.com/image/i/products/71/2.jpg"
+      ]
+    },
+    {
+      "id": "72",
+      "title": "Apple Watch SE",
+      "description": "Affordable smartwatch with essential features",
+      "price": 279,
+      "discountPercentage": 5,
+      "rating": 4.6,
+      "stock": 120,
+      "brand": "Apple",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/72/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/72/1.jpg",
+        "https://dummyjson.com/image/i/products/72/2.jpg"
+      ]
+    },
+    {
+      "id": "73",
+      "title": "Garmin Forerunner 945",
+      "description": "Advanced GPS running watch with music and maps",
+      "price": 599,
+      "discountPercentage": 6,
+      "rating": 4.8,
+      "stock": 55,
+      "brand": "Garmin",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/73/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/73/1.jpg",
+        "https://dummyjson.com/image/i/products/73/2.jpg"
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Fitbit Versa 3",
+      "description": "Fitness smartwatch with built-in GPS",
+      "price": 229,
+      "discountPercentage": 7.5,
+      "rating": 4.7,
+      "stock": 80,
+      "brand": "Fitbit",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/74/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/74/1.jpg",
+        "https://dummyjson.com/image/i/products/74/2.jpg"
+      ]
+    },
+    {
+      "id": "75",
+      "title": "Xiaomi Mi Band 6",
+      "description": "Affordable fitness band with AMOLED display",
+      "price": 49,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 150,
+      "brand": "Xiaomi",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/75/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/75/1.jpg",
+        "https://dummyjson.com/image/i/products/75/2.jpg"
+      ]
+    },
+    {
+      "id": "76",
+      "title": "Sony WH-XB900N",
+      "description": "Wireless headphones with extra bass and noise cancellation",
+      "price": 249,
+      "discountPercentage": 12,
+      "rating": 4.6,
+      "stock": 60,
+      "brand": "Sony",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/76/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/76/1.jpg",
+        "https://dummyjson.com/image/i/products/76/2.jpg"
+      ]
+    },
+    {
+      "id": "77",
+      "title": "Sennheiser HD 660S",
+      "description": "High-fidelity open-back headphones",
+      "price": 399,
+      "discountPercentage": 5.5,
+      "rating": 4.8,
+      "stock": 25,
+      "brand": "Sennheiser",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/77/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/77/1.jpg",
+        "https://dummyjson.com/image/i/products/77/2.jpg"
+      ]
+    },
+    {
+      "id": "78",
+      "title": "Jabra Elite 75t",
+      "description": "Compact true wireless earbuds with active noise cancellation",
+      "price": 199,
+      "discountPercentage": 8,
+      "rating": 4.6,
+      "stock": 90,
+      "brand": "Jabra",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/78/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/78/1.jpg",
+        "https://dummyjson.com/image/i/products/78/2.jpg"
+      ]
+    },
+    {
+      "id": "79",
+      "title": "Bose SoundLink Mini II",
+      "description": "Compact portable Bluetooth speaker with deep bass",
+      "price": 179,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 75,
+      "brand": "Bose",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/79/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/79/1.jpg",
+        "https://dummyjson.com/image/i/products/79/2.jpg"
+      ]
+    },
+    {
+      "id": "80",
+      "title": "Marshall Stanmore II",
+      "description": "Wireless Bluetooth speaker with classic design",
+      "price": 349,
+      "discountPercentage": 5,
+      "rating": 4.8,
+      "stock": 40,
+      "brand": "Marshall",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/80/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/80/1.jpg",
+        "https://dummyjson.com/image/i/products/80/2.jpg"
+      ]
+    },
+    {
+      "id": "81",
+      "title": "Asus ROG Strix G15",
+      "description": "Gaming laptop with powerful GPU and high refresh rate display",
+      "price": 1499,
+      "discountPercentage": 8,
+      "rating": 4.7,
+      "stock": 30,
+      "brand": "Asus",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/81/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/81/1.jpg",
+        "https://dummyjson.com/image/i/products/81/2.jpg"
+      ]
+    },
+    {
+      "id": "82",
+      "title": "Dell XPS 13",
+      "description": "Ultra-portable laptop with a sleek design",
+      "price": 1399,
+      "discountPercentage": 7,
+      "rating": 4.8,
+      "stock": 25,
+      "brand": "Dell",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/82/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/82/1.jpg",
+        "https://dummyjson.com/image/i/products/82/2.jpg"
+      ]
+    },
+    {
+      "id": "83",
+      "title": "HP Spectre x360",
+      "description": "Convertible laptop with a high-resolution touchscreen",
+      "price": 1599,
+      "discountPercentage": 6.5,
+      "rating": 4.7,
+      "stock": 20,
+      "brand": "HP",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/83/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/83/1.jpg",
+        "https://dummyjson.com/image/i/products/83/2.jpg"
+      ]
+    },
+    {
+      "id": "84",
+      "title": "Lenovo ThinkPad X1 Carbon",
+      "description": "Durable and lightweight business laptop",
+      "price": 1899,
+      "discountPercentage": 5,
+      "rating": 4.9,
+      "stock": 15,
+      "brand": "Lenovo",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/84/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/84/1.jpg",
+        "https://dummyjson.com/image/i/products/84/2.jpg"
+      ]
+    },
+    {
+      "id": "85",
+      "title": "Acer Nitro 5",
+      "description": "Gaming laptop with powerful performance and cooling system",
+      "price": 1299,
+      "discountPercentage": 10,
+      "rating": 4.6,
+      "stock": 40,
+      "brand": "Acer",
+      "category": "laptops",
+      "thumbnail": "https://dummyjson.com/image/i/products/85/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/85/1.jpg",
+        "https://dummyjson.com/image/i/products/85/2.jpg"
+      ]
+    },
+    {
+      "id": "86",
+      "title": "Sony WH-1000XM4",
+      "description": "Premium wireless noise-cancelling headphones",
+      "price": 349,
+      "discountPercentage": 7.5,
+      "rating": 4.9,
+      "stock": 50,
+      "brand": "Sony",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/86/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/86/1.jpg",
+        "https://dummyjson.com/image/i/products/86/2.jpg"
+      ]
+    },
+    {
+      "id": "87",
+      "title": "Bose QuietComfort 35 II",
+      "description": "Wireless noise-cancelling headphones with Google Assistant",
+      "price": 299,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 60,
+      "brand": "Bose",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/87/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/87/1.jpg",
+        "https://dummyjson.com/image/i/products/87/2.jpg"
+      ]
+    },
+    {
+      "id": "88",
+      "title": "Apple AirPods Pro",
+      "description": "True wireless earbuds with active noise cancellation",
+      "price": 249,
+      "discountPercentage": 5,
+      "rating": 4.7,
+      "stock": 80,
+      "brand": "Apple",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/88/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/88/1.jpg",
+        "https://dummyjson.com/image/i/products/88/2.jpg"
+      ]
+    },
+    {
+      "id": "89",
+      "title": "Beats Studio3 Wireless",
+      "description": "Wireless over-ear headphones with noise cancellation",
+      "price": 349,
+      "discountPercentage": 6,
+      "rating": 4.6,
+      "stock": 45,
+      "brand": "Beats",
+      "category": "audio",
+      "thumbnail": "https://dummyjson.com/image/i/products/89/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/89/1.jpg",
+        "https://dummyjson.com/image/i/products/89/2.jpg"
+      ]
+    },
+    {
+      "id": "90",
+      "title": "Apple Watch Series 8",
+      "description": "Latest smartwatch with advanced health features",
+      "price": 399,
+      "discountPercentage": 8,
+      "rating": 4.9,
+      "stock": 30,
+      "brand": "Apple",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/90/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/90/1.jpg",
+        "https://dummyjson.com/image/i/products/90/2.jpg"
+      ]
+    },
+    {
+      "id": "91",
+      "title": "Garmin Fenix 7",
+      "description": "Multisport GPS watch with advanced metrics",
+      "price": 699,
+      "discountPercentage": 7.5,
+      "rating": 4.8,
+      "stock": 40,
+      "brand": "Garmin",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/91/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/91/1.jpg",
+        "https://dummyjson.com/image/i/products/91/2.jpg"
+      ]
+    },
+    {
+      "id": "92",
+      "title": "Huawei Watch GT 3",
+      "description": "Smartwatch with long battery life and fitness tracking",
+      "price": 249,
+      "discountPercentage": 6,
+      "rating": 4.6,
+      "stock": 55,
+      "brand": "Huawei",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/92/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/92/1.jpg",
+        "https://dummyjson.com/image/i/products/92/2.jpg"
+      ]
+    },
+    {
+      "id": "93",
+      "title": "Samsung Galaxy Watch 6",
+      "description": "Smartwatch with advanced health and fitness features",
+      "price": 299,
+      "discountPercentage": 7,
+      "rating": 4.7,
+      "stock": 60,
+      "brand": "Samsung",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/93/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/93/1.jpg",
+        "https://dummyjson.com/image/i/products/93/2.jpg"
+      ]
+    },
+    {
+      "id": "94",
+      "title": "Fitbit Charge 5",
+      "description": "Advanced fitness tracker with GPS and heart rate monitoring",
+      "price": 179,
+      "discountPercentage": 5.5,
+      "rating": 4.6,
+      "stock": 75,
+      "brand": "Fitbit",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/94/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/94/1.jpg",
+        "https://dummyjson.com/image/i/products/94/2.jpg"
+      ]
+    },
+    {
+      "id": "95",
+      "title": "Google Nest Hub Max",
+      "description": "Smart display with Google Assistant and camera",
+      "price": 229,
+      "discountPercentage": 7,
+      "rating": 4.8,
+      "stock": 50,
+      "brand": "Google",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/95/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/95/1.jpg",
+        "https://dummyjson.com/image/i/products/95/2.jpg"
+      ]
+    },
+    {
+      "id": "96",
+      "title": "Ring Video Doorbell Pro 2",
+      "description": "Advanced video doorbell with high-definition video",
+      "price": 249,
+      "discountPercentage": 8,
+      "rating": 4.7,
+      "stock": 65,
+      "brand": "Ring",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/96/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/96/1.jpg",
+        "https://dummyjson.com/image/i/products/96/2.jpg"
+      ]
+    },
+    {
+      "id": "97",
+      "title": "Arlo Pro 4",
+      "description": "Wireless security camera with 4K HDR video",
+      "price": 299,
+      "discountPercentage": 9,
+      "rating": 4.8,
+      "stock": 40,
+      "brand": "Arlo",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/97/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/97/1.jpg",
+        "https://dummyjson.com/image/i/products/97/2.jpg"
+      ]
+    },
+    {
+      "id": "98",
+      "title": "TP-Link Kasa Smart Plug",
+      "description": "Wi-Fi smart plug for remote control of appliances",
+      "price": 39,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 150,
+      "brand": "TP-Link",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/98/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/98/1.jpg",
+        "https://dummyjson.com/image/i/products/98/2.jpg"
+      ]
+    },
+    {
+      "id": "99",
+      "title": "LIFX Mini Color",
+      "description": "Smart light bulb with color-changing capability",
+      "price": 59,
+      "discountPercentage": 12,
+      "rating": 4.6,
+      "stock": 95,
+      "brand": "LIFX",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/99/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/99/1.jpg",
+        "https://dummyjson.com/image/i/products/99/2.jpg"
+      ]
+    },
+    {
+      "id": "100",
+      "title": "Philips Hue Lightstrip Plus",
+      "description": "Flexible light strip with customizable colors",
+      "price": 89,
+      "discountPercentage": 8.5,
+      "rating": 4.7,
+      "stock": 85,
+      "brand": "Philips",
+      "category": "smart home",
+      "thumbnail": "https://dummyjson.com/image/i/products/100/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/100/1.jpg",
+        "https://dummyjson.com/image/i/products/100/2.jpg"
+      ]
+    }
+  ],
+  "categories":[
+    {
+      "value": "smartphones",
+      "label": "smartphones",
+      "checked": false,
+      "id": "a3t5"
+  },
+  {
+    "value" :  "laptops",
+    "label" : "laptops",
+    "checked" : false,
+    "id": "a29h"
+
+  },
+  {
+    "value": "tablets",
+    "label":  "tablets",
+    "checked" : false,
+    "id": "wwa9"
+
+  },
+  
+  {
+    "value": "smart home",
+    "label": "smart home" ,
+    "checked" : false,
+    "id": "abb2"
+
+  },
+  {
+    "value": "wearables",
+    "label": "wearables" ,
+    "checked" : false,
+    "id": "dud9"
+
+  },
+  {
+    "value": "audio",
+    "label": "audio",
+    "checked" : false,
+    "id": "abb8"
+
+  },
+  {
+    "value": "cameras",
+    "label":  "cameras",
+    "checked" : false,
+    "id": "4hy7"
+
+  },
+  {
+    "value": "drones",
+    "label": "drones" ,
+    "checked" : false,
+    "id": "rur0"
+
+  },
+  {
+    "value": "accessories",
+    "label": "accessories" ,
+    "checked" : false,
+    "id": "asu2"
+
+  },
+  {
+    "value": "gaming",
+    "label":  "gaming",
+    "checked" : false,
+    "id": "chu7"
+
+  }
+
+  ],
+
+    "brands": [
+    {
+      "value": "Apple",
+      "label": "Apple",
+      "checked": false,
+      "id": "f7f4"
+    },
+    {
+      "value": "Samsung",
+      "label": "Samsung",
+      "checked": false,
+      "id": "4fa3"
+    },
+    {
+      "value": "Xiaomi",
+      "label": "Xiaomi",
+      "checked": false,
+      "id": "4fz3"
+    },
+    {
+      "value": "OnePlus",
+      "label": "OnePlus",
+      "checked": false,
+      "id": "4fq3"
+    },
+    {
+      "value": "Sony",
+      "label": "Sony",
+      "checked": false,
+      "id": "4fa3"
+    },
+    {
+      "value": "Google",
+      "label": "Google",
+      "checked": false,
+      "id": "4fzz"
+    },
+    {
+      "value": "Nokia",
+      "label": "Nokia",
+      "checked": false,
+      "id": "zfa3"
+    },
+    {
+      "value": "LG",
+      "label": "LG",
+      "checked": false,
+      "id": "213a"
+    },
+    {
+      "value": "Motorola",
+      "label": "Motorola",
+      "checked": false,
+      "id": "4fa3"
+    },
+    {
+      "value": "Realme",
+      "label": "Realme",
+      "checked": false,
+      "id": "4oo3"
+    },
+    {
+      "value": "Asus",
+      "label": "Asus",
+      "checked": false,
+      "id": "4fqq"
+    },
+    {
+      "value": "Lenovo",
+      "label": "Lenovo",
+      "checked": false,
+      "id": "4fa3"
+    },
+    {
+      "value": "Vivo",
+      "label": "Vivo",
+      "checked": false,
+      "id": "4rr3"
+    },
+    {
+      "value": "Oppo",
+      "label": "Oppo",
+      "checked": false,
+      "id": "44c7"
+    },
+    {
+      "value": "ZTE",
+      "label": "ZTE",
+      "checked": false,
+      "id": "55re"
+    },
+    {
+      "value": "Dell",
+      "label": "Dell",
+      "checked": false,
+      "id": "4qad"
+    },
+    {
+      "value": "HP",
+      "label": "HP",
+      "checked": false,
+      "id": "4f11"
+    },
+    {
+      "value": "Acer",
+      "label": "Acer",
+      "checked": false,
+      "id": "4fyy"
+    },
+    
+    {
+      "value": "Amazon",
+      "label": "Amazon",
+      "checked": false,
+      "id": "8f11"
+    },
+    {
+      "value": "Fitbit",
+      "label": "Fitbit",
+      "checked": false,
+      "id": "4f12"
+    },
+    {
+      "value": "Garmin",
+      "label": "Garmin",
+      "checked": false,
+      "id": "1f11"
+    },
+    {
+      "value": "Bose",
+      "label": "Bose",
+      "checked": false,
+      "id": "4f11"
+    },
+    {
+      "value": "JBL",
+      "label": "JBL",
+      "checked": false,
+      "id": "4f66"
+    },
+    {
+      "value": "GoPro",
+      "label": "GoPro",
+      "checked": false,
+      "id": "4f76"
+    },
+    {
+      "value": "Canon",
+      "label": "Canon",
+      "checked": false,
+      "id": "zzz7"
+    },
+    {
+      "value": "DJI",
+      "label": "DJI",
+      "checked": false,
+      "id": "aa76"
+    },
+    {
+      "value": "Beats",
+      "label": "Beats",
+      "checked": false,
+      "id": "4fq1"
+    },
+    {
+      "value": "Microsoft",
+      "label": "Microsoft",
+      "checked": false,
+      "id": "4fqr"
+    },
+    {
+      "value": "Razer",
+      "label": "Razer",
+      "checked": false,
+      "id": "4f1p"
+    },
+    {
+      "value": "Logitech",
+      "label": "Logitech",
+      "checked": false,
+      "id": "4fql"
+    },
+    {
+      "value": "Corsair",
+      "label": "Corsair",
+      "checked": false,
+      "id": "4fkk"
+    },
+    {
+      "value": "HyperX",
+      "label": "HyperX",
+      "checked": false,
+      "id": "4fcc"
+    },
+    {
+      "value": "SteelSeries",
+      "label": "SteelSeries",
+      "checked": false,
+      "id": "4f15"
+    },
+    {
+      "value": "Nkion",
+      "label": "Nikon",
+      "checked": false,
+      "id": "4wer"
+    },
+    {
+      "value": "Honor",
+      "label": "Honor",
+      "checked": false,
+      "id": "4fa3"
+    },
+    {
+      "value": "Oculus",
+      "label": "Oculus",
+      "checked": false,
+      "id": "12rt"
+    },
+    {
+      "value": "Nintendo",
+      "label": "Nintendo",
+      "checked": false,
+      "id": "4fgg"
+    },
+    {
+      "value": "Roku",
+      "label": "Roku",
+      "checked": false,
+      "id": "4f4y"
+    },
+    {
+      "value": "Elgato",
+      "label": "Elgato",
+      "checked": false,
+      "id": "uf11"
+    },
+     {
+      "value": "Anker",
+      "label": "Anker",
+      "checked": false,
+      "id": "4f1j"
+    },
+    {
+      "value": "Eero",
+      "label": "Eero",
+      "checked": false,
+      "id": "4fu1"
+    },
+    {
+      "value": "Philips",
+      "label": "Philips",
+      "checked": false,
+      "id": "4fyw"
+    },
+    {
+      "value": "Nest",
+      "label": "Nest",
+      "checked": false,
+      "id": "4fhh"
+    },
+    {
+      "value": "Sennheiser",
+      "label": "Senheisser",
+      "checked": false,
+      "id": "4f1l"
+    },
+    {
+      "value": "Jabra",
+      "label": "Jabra",
+      "checked": false,
+      "id": "4fpp"
+    },
+    {
+      "value": "Marshall",
+      "label": "Marshall",
+      "checked": false,
+      "id": "4fo1"
+    },
+    {
+      "value": "Ring",
+      "label": "Ring",
+      "checked": false,
+      "id": "4fpq"
+    },
+    {
+      "value": "Arlo",
+      "label": "Arlo",
+      "checked": false,
+      "id": "12we"
+    },
+    {
+      "value": "TP-Link",
+      "label": "TP-Link",
+      "checked": false,
+      "id": "4fqx"
+    },
+    {
+      "value": "LIFX",
+      "label": "LIFX",
+      "checked": false,
+      "id": "4fkl"
+    },
+    {
+      "value": "Huawei",
+      "label": "Huawei",
+      "checked": false,
+      "id": "8b77"
+    },
+    {
+      "value": "Microsoft Surface",
+      "label": "Microsoft Surface",
+      "checked": false,
+      "id": "aa4d"
+    },
+    {
+      "value": "Infinix",
+      "label": "Infinix",
+      "checked": false,
+      "id": "4c66"
+    },
+    {
+      "value": "HP Pavilion",
+      "label": "HP Pavilion",
+      "checked": false,
+      "id": "89e1"
+    }
+   
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Shaikh Abdul Wahid ",
+          "email": "shaikhabdulwahid19@gmail.com",
+          "phone": "8169120436",
+          "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pinCode": "400086"
+        },
+        {
+          "name": "abdul samad",
+          "email": "asdafsdf",
+          "phone": "07506537370",
+          "street": "sacdsadsa",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pinCode": "400016"
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Demo user",
+          "email": "demo@gmail.com",
+          "phone": "1234567788",
+          "street": "11th Main",
+          "city": "Mumbai",
+          "state": "Maharastra",
+          "pinCode": "220001"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "Qwerty123",
+      "addresses": [
+        {
+          "name": "Shaikh Abdul Wahid ",
+          "email": "shaikhabdulwahid19@gmail.com",
+          "phone": "08169120436",
+          "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pinCode": "400086"
+        }
+      ],
+      "role": "admin",
+      "id": "3"
+    }
+  ],
+  "cart": [
+    {
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
+      ],
+      "productId": 5,
+      "quantity": 1,
+      "user": 2,
+      "id": "1"
+    },
+    {
+      "id": "ff8d",
+      "title": "iPhone X",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
+      "images": [
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/1.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/2.png",
+        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/3.png"
+      ],
+      "productId": "1",
+      "quantity": 1,
+      "user": "1"
+    }
+  ],
+  "orders": [
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 6
+        }
+      ],
+      "totalAmount": 1798,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "delivered",
+      "id": "1"
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 6
+        }
+      ],
+      "totalAmount": 1798,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "cancelled",
+      "id": "2"
+    },
+    {
+      "items": [
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2
+        }
+      ],
+      "totalAmount": 2997,
+      "totalItems": 3,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "cancelled",
+      "id": "3"
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/4.jpg",
+            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1098,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Abhishek R",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek R",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "pending",
+      "id": "4"
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 899,
+      "totalItems": 1,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "addresses": [
+          {
+            "name": "Abhishek Rathore",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Jack Morris",
+            "email": "jack@gmail.com",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110006",
+            "phone": "12312331232",
+            "street": "12th cross"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Abhishek Rathore",
+        "email": "test@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Banaglore",
+        "state": "Karnataka",
+        "pinCode": "560034"
+      },
+      "status": "pending",
+      "id": "5"
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 1111,
+          "discountPercentage": 17.94,
+          "rating": 0,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1824,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Abhishek Rathore",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Jack Morris",
+            "email": "jack@gmail.com",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110006",
+            "phone": "12312331232",
+            "street": "12th cross"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Jack Morris",
+        "email": "jack@gmail.com",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110006",
+        "phone": "12312331232",
+        "street": "12th cross"
+      },
+      "status": "pending",
+      "id": "6"
+    },
+    {
+      "items": [
+        {
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        },
+        {
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 2
+        }
+      ],
+      "totalAmount": 1502,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "7"
+    },
+    {
+      "items": [
+        {
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        },
+        {
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 2
+        }
+      ],
+      "totalAmount": 1502,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "8"
+    },
+    {
+      "items": [
+        {
+          "title": "MacBook Pro",
+          "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+          "price": 1999,
+          "discountPercentage": 11.02,
+          "rating": 0,
+          "stock": 83,
+          "brand": "Apple",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+          "images": [
+            "https://i.dummyjson.com/data/products/6/1.png",
+            "https://i.dummyjson.com/data/products/6/2.jpg",
+            "https://i.dummyjson.com/data/products/6/3.png",
+            "https://i.dummyjson.com/data/products/6/thumbnail.png"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1779,
+      "totalItems": 1,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "9"
+    },
+    {
+      "items": [
+        {
+          "title": "Microsoft Surface Laptop 4",
+          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Microsoft Surface",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/8/1.jpg",
+            "https://i.dummyjson.com/data/products/8/2.jpg",
+            "https://i.dummyjson.com/data/products/8/3.jpg",
+            "https://i.dummyjson.com/data/products/8/4.jpg",
+            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1346,
+      "totalItems": 1,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "10"
+    },
+    {
+      "items": [
+        {
+          "title": "Microsoft Surface Laptop 4",
+          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Microsoft Surface",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/8/1.jpg",
+            "https://i.dummyjson.com/data/products/8/2.jpg",
+            "https://i.dummyjson.com/data/products/8/3.jpg",
+            "https://i.dummyjson.com/data/products/8/4.jpg",
+            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 2692,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "11"
+    },
+    {
+      "id": "4c24",
+      "items": [
+        {
+          "id": "19d3",
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "deleted": true,
+          "productId": "3",
+          "quantity": 1,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 1056,
+      "totalItems": 1,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Jack Morris",
+            "email": "jack@gmail.com",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110006",
+            "phone": "12312331232",
+            "street": "12th cross"
+          },
+          {
+            "name": "Shaikh Abdul Wahid ",
+            "email": "shaikhabdulwahid19@gmail.com",
+            "phone": "8169120436",
+            "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400086"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shaikh Abdul Wahid ",
+        "email": "shaikhabdulwahid19@gmail.com",
+        "phone": "8169120436",
+        "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400086"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "7a44",
+      "items": [
+        {
+          "id": "1a2c",
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "productId": "5",
+          "quantity": 1,
+          "user": "1"
+        },
+        {
+          "id": "8c2a",
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 1111,
+          "discountPercentage": 17.94,
+          "rating": 0,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "deleted": true,
+          "productId": "2",
+          "quantity": 1,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 1358,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Jack Morris",
+            "email": "jack@gmail.com",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110006",
+            "phone": "12312331232",
+            "street": "12th cross"
+          },
+          {
+            "name": "Shaikh Abdul Wahid ",
+            "email": "shaikhabdulwahid19@gmail.com",
+            "phone": "8169120436",
+            "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400086"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Shaikh Abdul Wahid ",
+        "email": "shaikhabdulwahid19@gmail.com",
+        "phone": "8169120436",
+        "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400086"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "729e",
+      "items": [
+        {
+          "id": "0c06",
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 1111,
+          "discountPercentage": 17.94,
+          "rating": 0,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "deleted": true,
+          "productId": "2",
+          "quantity": 5,
+          "user": "1"
+        },
+        {
+          "id": "1bd5",
+          "title": "iPhone 9",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 993,
+          "discountPercentage": 12.96,
+          "rating": 0,
+          "stock": 1,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+          ],
+          "deleted": true,
+          "productId": "1",
+          "quantity": 2,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 6288,
+      "totalItems": 7,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shaikh Abdul Wahid ",
+            "email": "shaikhabdulwahid19@gmail.com",
+            "phone": "8169120436",
+            "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400086"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shaikh Abdul Wahid ",
+        "email": "shaikhabdulwahid19@gmail.com",
+        "phone": "8169120436",
+        "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400086"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "76f5",
+      "items": [
+        {
+          "id": "c1f6",
+          "title": "Infinix INBOOK",
+          "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+          "price": 1099,
+          "discountPercentage": 11.83,
+          "rating": 4.54,
+          "stock": 96,
+          "brand": "Infinix",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/9/1.jpg",
+            "https://i.dummyjson.com/data/products/9/2.png",
+            "https://i.dummyjson.com/data/products/9/3.png",
+            "https://i.dummyjson.com/data/products/9/4.jpg",
+            "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+          ],
+          "productId": "9",
+          "quantity": 1,
+          "user": "1"
+        },
+        {
+          "id": "f0be",
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 1111,
+          "discountPercentage": 17.94,
+          "rating": 0,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "deleted": true,
+          "productId": "2",
+          "quantity": 1,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 1881,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shaikh Abdul Wahid ",
+            "email": "shaikhabdulwahid19@gmail.com",
+            "phone": "8169120436",
+            "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400086"
+          },
+          {
+            "name": "abdul samad",
+            "email": "asdafsdf",
+            "phone": "07506537370",
+            "street": "sacdsadsa",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400016"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shaikh Abdul Wahid ",
+        "email": "shaikhabdulwahid19@gmail.com",
+        "phone": "8169120436",
+        "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400086"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "1eb1",
+      "items": [
+        {
+          "id": "10c4",
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "deleted": true,
+          "productId": "3",
+          "quantity": 3,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 3168,
+      "totalItems": 3,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shaikh Abdul Wahid ",
+            "email": "shaikhabdulwahid19@gmail.com",
+            "phone": "8169120436",
+            "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400086"
+          },
+          {
+            "name": "abdul samad",
+            "email": "asdafsdf",
+            "phone": "07506537370",
+            "street": "sacdsadsa",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400016"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shaikh Abdul Wahid ",
+        "email": "shaikhabdulwahid19@gmail.com",
+        "phone": "8169120436",
+        "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400086"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "00ce",
+      "items": [
+        {
+          "id": "53d9",
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 1111,
+          "discountPercentage": 17.94,
+          "rating": 0,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "deleted": true,
+          "productId": "2",
+          "quantity": 2,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 1824,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shaikh Abdul Wahid ",
+            "email": "shaikhabdulwahid19@gmail.com",
+            "phone": "8169120436",
+            "street": "Narayan Nagar (Ghatkopar) Chirag Nagar Ghatkopar West",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400086"
+          },
+          {
+            "name": "abdul samad",
+            "email": "asdafsdf",
+            "phone": "07506537370",
+            "street": "sacdsadsa",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "pinCode": "400016"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "abdul samad",
+        "email": "asdafsdf",
+        "phone": "07506537370",
+        "street": "sacdsadsa",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400016"
+      },
+      "status": "pending"
+    }
+  ]
+}
