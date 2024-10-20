@@ -1,259 +1,680 @@
 {
-    "products" : [
+  "id": "1",
+  "title": "iPhone X",
+  "description": "An apple mobile which is nothing like apple",
+  "price": 549,
+  "discountPercentage": 12.96,
+  "rating": 4.69,
+  "stock": 94,
+  "brand": "Apple",
+  "category": "smartphones",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
+  "images": [
+    "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/1.png",
+    "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/2.png",
+    "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/3.png"
+  ]
+},
+{
+  "id": "2",
+  "title": "Samsung Galaxy S8",
+  "description": "A powerful smartphone with stunning features",
+  "price": 599,
+  "discountPercentage": 10.5,
+  "rating": 4.89,
+  "stock": 65,
+  "brand": "Samsung",
+  "category": "smartphones",
+  "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png",
+  "images": [
+    "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/1.png",
+    "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/2.png",
+    "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/3.png"
+  ]
+},
+{
+  "id": "3",
+  "title": "Xiaomi Mi 9",
+  "description": "A smartphone that redefines value for money",
+  "price": 499,
+  "discountPercentage": 13.45,
+  "rating": 4.75,
+  "stock": 120,
+  "brand": "Xiaomi",
+  "category": "smartphones",
+  "thumbnail": "https://www.gizmochina.com/wp-content/uploads/2019/02/Xiaomi-Mi-9-1.jpg",
+  "images": [
+    "https://i01.appmifile.com/webfile/globalimg/products/pc/mi9/phone-1-global.png",
+    "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/02/24/10/xiaomi-mi-9.png",
+    "https://www.gizmochina.com/wp-content/uploads/2019/02/Xiaomi-Mi-9-1.jpg"
+  ]
+},
+{
+  "id": "4",
+  "title": "Huawei P30",
+  "description": "A stylish phone with a high-quality camera",
+  "price": 679,
+  "discountPercentage": 8.75,
+  "rating": 4.58,
+  "stock": 84,
+  "brand": "Huawei",
+  "category": "smartphones",
+  "thumbnail": "https://www.deepspecs.com/wp-content/uploads/2019/01/8-huawei-p30-deepspecs-com.jpg",
+  "images": [
+    "https://www.91-img.com/pictures/131928-v10-huawei-p30-pro-mobile-phone-hres-6.jpg",
+    "https://reapp.com.gh/wp-content/uploads/2020/10/Screenshot_20201007-160646.png",
+    "https://www.deepspecs.com/wp-content/uploads/2019/01/8-huawei-p30-deepspecs-com.jpg"
+  ]
+},
+{
+  "id": "5",
+  "title": "OnePlus 7 Pro",
+  "description": "Flagship performance with a sleek design",
+  "price": 749,
+  "discountPercentage": 9.15,
+  "rating": 4.8,
+  "stock": 56,
+  "brand": "OnePlus",
+  "category": "smartphones",
+  "thumbnail": "https://phonesdata.com/files/models/OnePlus--7-Pro-489.jpg",
+  "images": [
+    "https://bestchineseproducts.com/wp-content/uploads/2020/09/Oneplus-7T-Pro.png",
+    "https://www.ephotozine.com/articles/oneplus-7-pro-review--in-progress--33592/images/highres-OnePlus-7-Pro-5_1558446208.jpg",
+    "https://phonesdata.com/files/models/OnePlus--7-Pro-489.jpg"
+  ]
+},
+{
+  "id": "6",
+  "title": "Sony Xperia Z5",
+  "description": "A classic smartphone with a great camera",
+  "price": 499,
+  "discountPercentage": 15,
+  "rating": 4.1,
+  "stock": 72,
+  "brand": "Sony",
+  "category": "smartphones",
+  "thumbnail": "https://www.bhphotovideo.com/images/images2000x2000/sony_1298_5589_xperia_z5_e6603_32gb_1212082.jpg",
+  "images": [
+    "https://m.phonegg.com/62/6287b.jpg",
+    "https://cdn.arstechnica.net/wp-content/uploads/2012/06/xp-hand.jpg",
+    "https://www.bhphotovideo.com/images/images2000x2000/sony_1298_5589_xperia_z5_e6603_32gb_1212082.jpg"
+  ]
+},
+{
+  "id": "7",
+  "title": "Google Pixel 4",
+  "description": "A clean and fast Android experience",
+  "price": 599,
+  "discountPercentage": 10.75,
+  "rating": 4.67,
+  "stock": 40,
+  "brand": "Google",
+  "category": "smartphones",
+  "thumbnail": "https://m.media-amazon.com/images/I/71xlN-a7s0L._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/71xlN-a7s0L._SL1500_.jpg",
+    "https://cdn.mos.cms.futurecdn.net/Q5dsTznwi4AZBpZLxkFak4.jpg",
+    "https://www.ephotozine.com/articles/google-pixel-4a-5g-smartphone-review-35066/images/highres-PA220054_1603364598.jpg"
+  ]
+},
+{
+  "id": "8",
+  "title": "Nokia 7.2",
+  "description": "A reliable phone with long battery life",
+  "price": 399,
+  "discountPercentage": 17.5,
+  "rating": 4.35,
+  "stock": 89,
+  "brand": "Nokia",
+  "category": "smartphones",
+  "thumbnail": "https://phonesdata.com/files/models/Nokia--7.2-187.png",
+  "images": [
+    "https://m.media-amazon.com/images/I/419nEzRZ2mL._SL500_.jpg",
+    "https://www.phoneworld.com.pk/wp-content/uploads/2019/10/IMG_20191029_122327.jpg",
+    "https://phonesdata.com/files/models/Nokia--7.2-187.png"
+  ]
+},
+{
+  "id": "9",
+  "title": "LG G8 ThinQ",
+  "description": "An innovative smartphone with AI features",
+  "price": 699,
+  "discountPercentage": 12,
+  "rating": 4.45,
+  "stock": 62,
+  "brand": "LG",
+  "category": "smartphones",
+  "thumbnail": "https://www.intellectdigest.in/wp-content/uploads/2019/09/sdzv-DZ.jpg",
+  "images": [
+    "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/10/V40-all-angles-1017x1024.jpg",
+    "https://www.androidauthority.com/wp-content/uploads/2019/02/LG-G8-ThinQ-7-of-X.jpg",
+    "https://www.intellectdigest.in/wp-content/uploads/2019/09/sdzv-DZ.jpg"
+  ]
+},
+{
+  "id": "10",
+  "title": "Motorola Moto G7",
+  "description": "A budget-friendly smartphone with great features",
+  "price": 299,
+  "discountPercentage": 18.25,
+  "rating": 4.2,
+  "stock": 78,
+  "brand": "Motorola",
+  "category": "smartphones",
+  "thumbnail": "https://resources.claroshop.com/medios-plazavip/s2/10243/1902697/5fb3aec313f6a-be543b4d-367f-4bfa-a92b-dd450d7966ef-1600x1600.jpg",
+  "images": [
+    "https://img.ibxk.com.br/2019/02/07/07111640877059.jpg",
+    "https://images.frandroid.com/wp-content/uploads/2019/07/motorola-moto-g7-power-4.jpg",
+    "https://resources.claroshop.com/medios-plazavip/s2/10243/1902697/5fb3aec313f6a-be543b4d-367f-4bfa-a92b-dd450d7966ef-1600x1600.jpg"
+  ]
+},
+{
+  "id": "11",
+  "title": "Realme X50 Pro",
+  "description": "A 5G smartphone with flagship specs at a budget price",
+  "price": 499,
+  "discountPercentage": 14.25,
+  "rating": 4.45,
+  "stock": 100,
+  "brand": "Realme",
+  "category": "smartphones",
+  "thumbnail": "https://mimelon.com/uploads/catalog/Product/1588596320744.jpg",
+  "images": [
+    "https://www.bdprice.com.bd/wp-content/uploads/2020/06/Realme-X50t-5G.jpg",
+    "https://lh3.googleusercontent.com/-XXuwfZZ57CI/XqWz5nwKQtI/AAAAAAAAGHA/Xqa354vrPxocnNt35bMPe-tNPe0Sh-P6QCLcBGAsYHQ/s1600/1587917795771676-0.png",
+    "https://mimelon.com/uploads/catalog/Product/1588596320744.jpg"
+  ]
+},
+{
+  "id": "12",
+  "title": "Asus Zenfone 6",
+  "description": "A phone with a unique rotating camera",
+  "price": 699,
+  "discountPercentage": 9.85,
+  "rating": 4.5,
+  "stock": 54,
+  "brand": "Asus",
+  "category": "smartphones",
+  "thumbnail": "https://phonesdata.com/files/models/Asus--Zenfone-6-ZS630KL-463.png",
+  "images": [
+    "https://www.chooseyourmobile.com/wp-content/uploads/2020/07/Asus-6Z-zenphone.jpg",
+    "https://philnews.ph/wp-content/uploads/2020/12/Asus-Zenfone-6-ZS630KL-specs-price-Philippines-5.jpg",
+    "https://phonesdata.com/files/models/Asus--Zenfone-6-ZS630KL-463.png"
+  ]
+},
+{
+  "id": "13",
+  "title": "Lenovo Z6 Pro",
+  "description": "A high-end smartphone with quad cameras",
+  "price": 579,
+  "discountPercentage": 13,
+  "rating": 4.7,
+  "stock": 65,
+  "brand": "Lenovo",
+  "category": "smartphones",
+  "thumbnail": "https://www.pinoytechnoguide.com/wp-content/uploads/2019/04/Lenovo-Z6-Pro-FULL-IMAGE.jpg",
+  "images": [
+    "https://www.schmidtisblog.de/wp-content/uploads/2019/04/Lenovo-Z6-Pro-6.jpg",
+    "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Lenovo_Z5_Pro_GT_2.jpg",
+    "https://www.gizchina.com/wp-content/uploads/images/2019/07/Redmi-K20-Pro-.jpg"
+  ]
+},
+{
+  "id": "14",
+  "title": "Oppo Reno 4",
+  "description": "Sleek design with premium performance",
+  "price": 459,
+  "discountPercentage": 11.2,
+  "rating": 4.6,
+  "stock": 70,
+  "brand": "Oppo",
+  "category": "smartphones",
+  "thumbnail": "https://www.gizmochina.com/wp-content/uploads/2020/07/OPPO-Reno4-Global-Galactic-Blue-1024x1024.png",
+  "images": [
+    "https://smadreview.com/wp-content/uploads/2023/04/tecno-camon-18.jpg",
+    "https://telefononews.it/wp-content/uploads/2020/10/Oppo-Reno-4-Pro-2048x1320.png",
+    "https://gadgetsinnepal.b-cdn.net/wp-content/uploads/2020/07/oppo-reno-4-pro-price-in-nepal-000001.jpg"
+  ]
+},
+{
+  "id": "15",
+  "title": "Vivo V21",
+  "description": "A stylish phone with great selfie camera",
+  "price": 369,
+  "discountPercentage": 16.8,
+  "rating": 4.4,
+  "stock": 95,
+  "brand": "Vivo",
+  "category": "smartphones",
+  "thumbnail": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/vivo/thumb/128630-2_large.jpg",
+  "images": [
+    "https://storage.googleapis.com/landtop_prod/product/1553/product_image/586931bb39ebf693bcf54e97d68a9cf0.png.",
+    "https://www.bolnews.com/wp-content/uploads/2022/02/gsmarena_027.jpeg",
+    "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/vivo/thumb/128630-2_large.jpg"
+  ]
+},
+{
+  "id": "16",
+  "title": "ZTE Axon 10 Pro",
+  "description": "A smartphone with strong performance and affordability",
+  "price": 559,
+  "discountPercentage": 12.1,
+  "rating": 4.5,
+  "stock": 45,
+  "brand": "ZTE",
+  "category": "smartphones",
+  "thumbnail": "https://www.mobiledokan.co/wp-content/uploads/2019/02/ZTE-Axon-10-Pro-5G-Blue.jpg",
+  "images": [
+    "https://www.mobiledokan.co/wp-content/uploads/2019/02/ZTE-Axon-10-Pro-5G-Blue.jpg",
+    "https://i.blogs.es/f283d7/zte-axon-10-pro/450_1000.jpg",
+    "https://www.trustedreviews.com/wp-content/uploads/sites/54/2019/02/ZTE-Axon-10-Pro-5G-MWC-03.jpg"
+  ]
+},
+{
+  "id": "17",
+  "title": "Honor View 20",
+  "description": "A punch-hole camera with a powerful processor",
+  "price": 499,
+  "discountPercentage": 10.75,
+  "rating": 4.3,
+  "stock": 73,
+  "brand": "Honor",
+  "category": "smartphones",
+  "thumbnail": "https://dummyjson.com/image/i/products/17/thumbnail.jpg",
+  "images": [
+    "https://dummyjson.com/image/i/projpgducts/17/1.jpg",
+    "https://dummyjson.com/image/i/products/17/2.jpg"
+  ]
+},
+{
+  "id": "18",
+  "title": "Apple MacBook Air",
+  "description": "Lightweight laptop with retina display",
+  "price": 999,
+  "discountPercentage": 5.5,
+  "rating": 4.8,
+  "stock": 55,
+  "brand": "Apple",
+  "category": "laptops",
+  "thumbnail": "https://media.product.which.co.uk/prod/images/original/e55897cebaec-apple-macbook-air-15-inch-2023.jpeg",
+  "images": [
+    "https://tekcom.co.ke/wp-content/uploads/2024/07/Apple-Macbook-Air-%E2%80%93-M2-chip-8-core-CPU-%E2%80%93-10-Core-GPU-16GB-RAM-1TB-SSD-2.png",
+    "https://dev.mos.cms.futurecdn.net/ZcRSPacpMytRSk9Sc7Uwwn.jpg",
+    "https://media.product.which.co.uk/prod/images/original/e55897cebaec-apple-macbook-air-15-inch-2023.jpeg"
+  ]
+},
+{
+  "id": "19",
+  "title": "Dell XPS 13",
+  "description": "A powerful laptop with infinity edge display",
+  "price": 1199,
+  "discountPercentage": 7.5,
+  "rating": 4.7,
+  "stock": 20,
+  "brand": "Dell",
+  "category": "laptops",
+  "thumbnail": "https://www.techandsoft.com/wp-content/uploads/2019/08/91Qbl1lVWL._SL1500_.jpg",
+  "images": [
+    "https://www.bhphotovideo.com/images/images1500x1500/dell_xps9360_7697slv_xps_i7_7560u_16gb_512ssd_1358390.jpg",
+    "https://www.notebookcheck.net/uploads/tx_nbc2/Dell_XPS_13_1_01.jpg",
+    "https://www.techandsoft.com/wp-content/uploads/2019/08/91Qbl1lVWL._SL1500_.jpg"
+  ]
+},
+{
+  "id": "20",
+  "title": "HP Spectre x360",
+  "description": "A convertible laptop with great performance",
+  "price": 1299,
+  "discountPercentage": 6.25,
+  "rating": 4.6,
+  "stock": 30,
+  "brand": "HP",
+  "category": "laptops",
+  "thumbnail": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6339/6339276_sd.jpg",
+  "images": [
+    "https://images.expertreviews.co.uk/wp-content/uploads/2020/04/spiderman_13_wlan_darkashsilver_t_nonodd_fpr_coreset_rearleft.jpg",
+    "https://1.bp.blogspot.com/-bVmPzmR4sqg/XjzQRw6gFHI/AAAAAAAAI8Q/xHZ-d8HDR2E_53pR-2f3KdYa96yXa9duwCNcBGAsYHQ/s1600/15-df1004TX.jpg",
+    "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6339/6339276_sd.jpg"
+  ]
+},
+{
+  "id": "21",
+  "title": "Acer Aspire 7",
+  "description": "Gaming laptop with great value",
+  "price": 799,
+  "discountPercentage": 15,
+  "rating": 4.4,
+  "stock": 40,
+  "brand": "Acer",
+  "category": "laptops",
+  "thumbnail": "https://laptopmedia.com/wp-content/uploads/2021/01/1-62.jpg",
+  "images": [
+    "https://topreviewuri.com/wp-content/uploads/2021/03/Acer-Aspire-7-Review.jpg",
+    "https://i5.walmartimages.com/asr/dca53ee0-5e36-4334-9e37-3c2b2d0614c9_1.1c134e014a2c04f4c4de5aa898eead07.jpeg",
+    "https://laptopmedia.com/wp-content/uploads/2021/01/1-62.jpg"
 
-        {
-          "id": 1,
-          "title": "iPhone X",
-          "description": "An apple mobile which is nothing like apple",
-          "price": 549,
-          "discountPercentage": 12.96,
-          "rating": 4.69,
-          "stock": 94,
-          "brand": "Apple",
-          "category": "smartphones",
-          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
-          "images": [
-            "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/1.png",
-        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/2.png",
-        "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/3.png"
-          ]
-        },
-        {
-          "id": 2,
-          "title": "Samsung Galaxy S8",
-          "description": "A powerful smartphone with stunning features",
-          "price": 599,
-          "discountPercentage": 10.5,
-          "rating": 4.89,
-          "stock": 65,
-          "brand": "Samsung",
-          "category": "smartphones",
-          "thumbnail":"https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png",
-          "images": [
-            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/1.png",
-            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/2.png",
-            "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/3.png"
-          ]
-        },
-        {
-          "id": 3,
-          "title": "Xiaomi Mi 9",
-          "description": "A smartphone that redefines value for money",
-          "price": 499,
-          "discountPercentage": 13.45,
-          "rating": 4.75,
-          "stock": 120,
-          "brand": "Xiaomi",
-          "category": "smartphones",
-          "thumbnail": "https://www.gizmochina.com/wp-content/uploads/2019/02/Xiaomi-Mi-9-1.jpg",
-          "images": [
-            "https://i01.appmifile.com/webfile/globalimg/products/pc/mi9/phone-1-global.png",
-            "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/02/24/10/xiaomi-mi-9.png",
-            "https://www.gizmochina.com/wp-content/uploads/2019/02/Xiaomi-Mi-9-1.jpg"
-          ]
-        },
-        {
-          "id": 4,
-          "title": "Huawei P30",
-          "description": "A stylish phone with a high-quality camera",
-          "price": 679,
-          "discountPercentage": 8.75,
-          "rating": 4.58,
-          "stock": 84,
-          "brand": "Huawei",
-          "category": "smartphones",
-          "thumbnail": "https://www.deepspecs.com/wp-content/uploads/2019/01/8-huawei-p30-deepspecs-com.jpg",
-          "images": [
-            "https://www.91-img.com/pictures/131928-v10-huawei-p30-pro-mobile-phone-hres-6.jpg",
-            "https://reapp.com.gh/wp-content/uploads/2020/10/Screenshot_20201007-160646.png",
-            "https://www.deepspecs.com/wp-content/uploads/2019/01/8-huawei-p30-deepspecs-com.jpg"
-          ]
-        },
-        {
-          "id": 5,
-          "title": "OnePlus 7 Pro",
-          "description": "Flagship performance with a sleek design",
-          "price": 749,
-          "discountPercentage": 9.15,
-          "rating": 4.8,
-          "stock": 56,
-          "brand": "OnePlus",
-          "category": "smartphones",
-          "thumbnail": "https://phonesdata.com/files/models/OnePlus--7-Pro-489.jpg",
-          "images": [
-            "https://bestchineseproducts.com/wp-content/uploads/2020/09/Oneplus-7T-Pro.png",
-        "https://www.ephotozine.com/articles/oneplus-7-pro-review--in-progress--33592/images/highres-OnePlus-7-Pro-5_1558446208.jpg",
-         "https://phonesdata.com/files/models/OnePlus--7-Pro-489.jpg"
-          ]
-        },
-        {
-          "id": 6,
-          "title": "Sony Xperia Z5",
-          "description": "A classic smartphone with a great camera",
-          "price": 499,
-          "discountPercentage": 15.0,
-          "rating": 4.1,
-          "stock": 72,
-          "brand": "Sony",
-          "category": "smartphones",
-          "thumbnail": "https://www.bhphotovideo.com/images/images2000x2000/sony_1298_5589_xperia_z5_e6603_32gb_1212082.jpg",
-          "images": [
-            "https://m.phonegg.com/62/6287b.jpg",
-            "https://cdn.arstechnica.net/wp-content/uploads/2012/06/xp-hand.jpg",
-            "https://www.bhphotovideo.com/images/images2000x2000/sony_1298_5589_xperia_z5_e6603_32gb_1212082.jpg"
-          ]
-        },
-        {
-          "id": 7,
-          "title": "Google Pixel 4",
-          "description": "A clean and fast Android experience",
-          "price": 599,
-          "discountPercentage": 10.75,
-          "rating": 4.67,
-          "stock": 40,
-          "brand": "Google",
-          "category": "smartphones",
-          "thumbnail": "https://m.media-amazon.com/images/I/71xlN-a7s0L._SL1500_.jpg",
-          "images": [
-            "https://m.media-amazon.com/images/I/71xlN-a7s0L._SL1500_.jpg",
-            "https://cdn.mos.cms.futurecdn.net/Q5dsTznwi4AZBpZLxkFak4.jpg",
-            "https://www.ephotozine.com/articles/google-pixel-4a-5g-smartphone-review-35066/images/highres-PA220054_1603364598.jpg"
-          ]
-        },
-        {
-          "id": 8,
-          "title": "Nokia 7.2",
-          "description": "A reliable phone with long battery life",
-          "price": 399,
-          "discountPercentage": 17.5,
-          "rating": 4.35,
-          "stock": 89,
-          "brand": "Nokia",
-          "category": "smartphones",
-          "thumbnail": "https://phonesdata.com/files/models/Nokia--7.2-187.png",
-          "images": [
-            "https://m.media-amazon.com/images/I/419nEzRZ2mL._SL500_.jpg",
-            "https://www.phoneworld.com.pk/wp-content/uploads/2019/10/IMG_20191029_122327.jpg",
-            "https://phonesdata.com/files/models/Nokia--7.2-187.png"
-          ]
-        },
-        {
-          "id": 9,
-          "title": "LG G8 ThinQ",
-          "description": "An innovative smartphone with AI features",
-          "price": 699,
-          "discountPercentage": 12.0,
-          "rating": 4.45,
-          "stock": 62,
-          "brand": "LG",
-          "category": "smartphones",
-          "thumbnail": "https://www.intellectdigest.in/wp-content/uploads/2019/09/sdzv-DZ.jpg",
-          "images": [
-            "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/10/V40-all-angles-1017x1024.jpg",
-            "https://www.androidauthority.com/wp-content/uploads/2019/02/LG-G8-ThinQ-7-of-X.jpg",
-            "https://www.intellectdigest.in/wp-content/uploads/2019/09/sdzv-DZ.jpg"
-          ]
-        },
-        {
-          "id": 10,
-          "title": "Motorola Moto G7",
-          "description": "A budget-friendly smartphone with great features",
-          "price": 299,
-          "discountPercentage": 18.25,
-          "rating": 4.2,
-          "stock": 78,
-          "brand": "Motorola",
-          "category": "smartphones",
-          "thumbnail": "https://resources.claroshop.com/medios-plazavip/s2/10243/1902697/5fb3aec313f6a-be543b4d-367f-4bfa-a92b-dd450d7966ef-1600x1600.jpg",
-          "images": [
-            "https://img.ibxk.com.br/2019/02/07/07111640877059.jpg",
-            "https://images.frandroid.com/wp-content/uploads/2019/07/motorola-moto-g7-power-4.jpg",
-            "https://resources.claroshop.com/medios-plazavip/s2/10243/1902697/5fb3aec313f6a-be543b4d-367f-4bfa-a92b-dd450d7966ef-1600x1600.jpg"
-          ]
-        },
-
-          {
-            "id": 11,
-            "title": "Realme X50 Pro",
-            "description": "A 5G smartphone with flagship specs at a budget price",
-            "price": 499,
-            "discountPercentage": 14.25,
-            "rating": 4.45,
-            "stock": 100,
-            "brand": "Realme",
-            "category": "smartphones",
-            "thumbnail": "https://mimelon.com/uploads/catalog/Product/1588596320744.jpg",
-            "images": [
-              "https://www.bdprice.com.bd/wp-content/uploads/2020/06/Realme-X50t-5G.jpg",
-              "https://lh3.googleusercontent.com/-XXuwfZZ57CI/XqWz5nwKQtI/AAAAAAAAGHA/Xqa354vrPxocnNt35bMPe-tNPe0Sh-P6QCLcBGAsYHQ/s1600/1587917795771676-0.png",
-              "https://mimelon.com/uploads/catalog/Product/1588596320744.jpg"
-            ]
-          },
-          {
-            "id": 12,
-            "title": "Asus Zenfone 6",
-            "description": "A phone with a unique rotating camera",
-            "price": 699,
-            "discountPercentage": 9.85,
-            "rating": 4.5,
-            "stock": 54,
-            "brand": "Asus",
-            "category": "smartphones",
-            "thumbnail": "https://phonesdata.com/files/models/Asus--Zenfone-6-ZS630KL-463.png",
-            "images": [
-              "https://www.chooseyourmobile.com/wp-content/uploads/2020/07/Asus-6Z-zenphone.jpg",
-              "https://philnews.ph/wp-content/uploads/2020/12/Asus-Zenfone-6-ZS630KL-specs-price-Philippines-5.jpg",
-              "https://phonesdata.com/files/models/Asus--Zenfone-6-ZS630KL-463.png"
-            ]
-          },
-          {
-            "id": 13,
-            "title": "Lenovo Z6 Pro",
-            "description": "A high-end smartphone with quad cameras",
-            "price": 579,
-            "discountPercentage": 13.0,
-            "rating": 4.7,
-            "stock": 65,
-            "brand": "Lenovo",
-            "category": "smartphones",
-            "thumbnail": "https://www.pinoytechnoguide.com/wp-content/uploads/2019/04/Lenovo-Z6-Pro-FULL-IMAGE.jpg",
-            "images": [
-              "https://www.schmidtisblog.de/wp-content/uploads/2019/04/Lenovo-Z6-Pro-6.jpg",
-              "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Lenovo_Z5_Pro_GT_2.jpg",
-              "https://www.gizchina.com/wp-content/uploads/images/2019/07/Redmi-K20-Pro-.jpg"
-
-            ]
-          },
-          {
-            "id": 14,
-            "title": "Oppo Reno 4",
-            "description": "Sleek design with premium performance",
-            "price": 459,
-            "discountPercentage": 11.2,
-            "rating": 4.6,
-            "stock": 70,
-            "brand": "Oppo",
-            "category": "smartphones",
-            "thumbnail": "https://www.gizmochina.com/wp-content/uploads/2020/07/OPPO-Reno4-Global-Galactic-Blue-1024x1024.png",
-            "images": [
-              "https://smadreview.com/wp-content/uploads/2023/04/tecno-camon-18.jpg",
-              "https://telefononews.it/wp-content/uploads/2020/10/Oppo-Reno-4-Pro-2048x1320.png",
-              "https://gadgetsinnepal.b-cdn.net/wp-content/uploads/2020/07/oppo-reno-4-pro-price-in-nepal-000001.jpg"
-            ]
-          },
-          {
-            "id": 15,
-            "title": "Vivo V21",
-            "description": "A stylish phone with great selfie camera",
-            "price": 369,
-            "discountPercentage": 16.8,
-            "rating": 4.4,
-            "stock": 95,
-            "brand": "Vivo",
-            "category": "smartphones",
-            "thumbnail": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/vivo/thumb/128630-2_large.jpg",
-            "images": [
-              "https://storage.googleapis.com/landtop_prod/product/1553/product_image/586931bb39ebf693bcf54e97d68a9cf0.png.",
-              "https://www.bolnews.com/wp-content/uploads/2022/02/gsmarena_027.jpeg",
-               "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/vivo/thumb/128630-2_large.jpg"
-            ]
+  ]
+},
+{
+  "id": "22",
+  "title": "Samsung Galaxy Tab S6",
+  "description": "Powerful tablet with stylus support",
+  "price": 599,
+  "discountPercentage": 12.5,
+  "rating": 4.7,
+  "stock": 85,
+  "brand": "Samsung",
+  "category": "tablets",
+  "thumbnail": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6357/6357001_sd.jpg",
+  "images": [
+    "https://img.global.news.samsung.com/my/wp-content/uploads/2019/08/Product-Image-Galaxy-Tab-S6-3.jpg",
+    "https://www.resetdigitale.it/120777-thickbox_default/tablet-samsung-s6-lite-wifi-grigio.jpg",
+    "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6357/6357001_sd.jpg"
+  ]
+},
+{
+  "id": "23",
+  "title": "iPad Pro",
+  "description": "Powerful tablet with M1 chip",
+  "price": 1299,
+  "discountPercentage": 5,
+  "rating": 4.9,
+  "stock": 50,
+  "brand": "Apple",
+  "category": "tablets",
+  "thumbnail": "https://www.bhphotovideo.com/images/images2500x2500/apple_mtxv2ll_a_11_ipad_pro_1tb_1441864.jpg",
+  "images": [
+    "https://www.apple.com/newsroom/images/product/ipad/standard/apple_ipad-pro-spring21_hero_04202021_big.jpg.large.jpg",
+    "https://miro.medium.com/v2/resize:fit:2682/1*mA2vNIbOQpqThOxfhikc7A.jpeg",
+    "https://www.bhphotovideo.com/images/images2500x2500/apple_mtxv2ll_a_11_ipad_pro_1tb_1441864.jpg"
+  ]
+},
+{
+  "id": "24",
+  "title": "Google Nest Hub",
+  "description": "Smart home display with voice assistant",
+  "price": 129,
+  "discountPercentage": 8.75,
+  "rating": 4.6,
+  "stock": 90,
+  "brand": "Google",
+  "category": "smart home",
+  "thumbnail": "https://i5.walmartimages.com/asr/40064370-0f86-4bfa-b576-f787284327b5.a291c20fbb0f89083ce0d1bef4ee7bfb.jpeg",
+  "images": [
+    "https://sm.pcmag.com/t/pcmag_uk/review/g/google-nes/google-nest-hub-2nd-gen_yseq.1920.jpg",
+    "https://i.pcmag.com/imagery/reviews/01I4LR9lDO9UhehuOFfNltE-4.jpg",
+    "https://i5.walmartimages.com/asr/40064370-0f86-4bfa-b576-f787284327b5.a291c20fbb0f89083ce0d1bef4ee7bfb.jpeg"
+  ]
+},
+{
+  "id": "25",
+  "title": "Amazon Echo Dot",
+  "description": "Compact smart speaker with Alexa",
+  "price": 49,
+  "discountPercentage": 10,
+  "rating": 4.7,
+  "stock": 120,
+  "brand": "Amazon",
+  "category": "smart home",
+  "thumbnail":"https://www.bhphotovideo.com/images/images2500x2500/amazon_b0792k2bk6_echo_dot_3rd_generation_1437068.jpg",
+  "images": [
+    "https://www.bhphotovideo.com/images/images2000x2000/amazon_b085m66lh1_echo_dot_4th_gen_1599239.jpg",
+    "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_Echo_Dot_Black_Low_Angle_On_b5e8fcdbcc.jpg",
+    "https://www.bhphotovideo.com/images/images2500x2500/amazon_b0792k2bk6_echo_dot_3rd_generation_1437068.jpg"
+  ]
+},
+{
+  "id": "26",
+  "title": "Fitbit Charge 4",
+  "description": "Fitness tracker with GPS",
+  "price": 149,
+  "discountPercentage": 7.5,
+  "rating": 4.3,
+  "stock": 90,
+  "brand": "Fitbit",
+  "category": "wearables",
+  "thumbnail": "https://i5.walmartimages.com/asr/0f37ca1d-2240-45b4-833d-d45aab8b2c55.8452e91fd2d113dc7ff1ece52173732c.jpegg",
+  "images": [
+    "https://dev.mos.cms.futurecdn.net/DMbuTipx85FypdPBgn4AhV.jpg",
+    "https://cdn.mos.cms.futurecdn.net/r35csiiVe2nKmUCkLUzKr.jpg",
+    "https://i5.walmartimages.com/asr/0f37ca1d-2240-45b4-833d-d45aab8b2c55.8452e91fd2d113dc7ff1ece52173732c.jpegg"
+  ]
+},
+{
+  "id": "27",
+  "title": "Garmin Fenix 6",
+  "description": "Multisport GPS watch",
+  "price": 699,
+  "discountPercentage": 6.25,
+  "rating": 4.8,
+  "stock": 40,
+  "brand": "Garmin",
+  "category": "wearables",
+  "thumbnail": "https://www.bhphotovideo.com/images/images2500x2500/garmin_010_02158_22_fenix_6_multisport_gps_1502893.jpg",
+  "images": [
+    "https://www.hardworkout.no/wp-content/uploads/2019/09/IMG_0381.jpg",
+    "https://www.ablogtowatch.com/wp-content/uploads/2020/02/Garmin-D2-Delta-PX-smartwatch-12-470x470.jpg",
+    "https://www.bhphotovideo.com/images/images2500x2500/garmin_010_02158_22_fenix_6_multisport_gps_1502893.jpg"
+  ]
+},
+{
+  "id": "28",
+  "title": "Sony WH-1000XM4",
+  "description": "Wireless noise-cancelling headphones",
+  "price": 349,
+  "discountPercentage": 10.5,
+  "rating": 4.7,
+  "stock": 80,
+  "brand": "Sony",
+  "category": "audio",
+  "thumbnail": "https://www.bhphotovideo.com/images/images2500x2500/sony_wh1000xm4_b_wh_1000xm4_wireless_noise_canceling_over_ear_1582549.jpg",
+  "images": [
+    "https://microless.com/cdn/products/69fd2d6d1fa0b4b8bebf5dcb709f9b1b-hi.jpg",
+    "https://www.notebookcheck.net/fileadmin/_processed_/9/f/csm_download5828_ef3966b1d9.jpg",
+    "https://www.bhphotovideo.com/images/images2500x2500/sony_wh1000xm4_b_wh_1000xm4_wireless_noise_canceling_over_ear_1582549.jpg"
+  ]
+},
+{
+  "id": "29",
+  "title": "Bose SoundLink Revolve",
+  "description": "Portable Bluetooth speaker with 360° sound",
+  "price": 199,
+  "discountPercentage": 12.5,
+  "rating": 4.5,
+  "stock": 90,
+  "brand": "Bose",
+  "category": "audio",
+  "thumbnail": "https://dummyjson.com/image/i/products/29/thumbnail.jpg",
+  "images": [
+    "https://www.bhphotovideo.com/images/images1500x1500/bose_739523_1110_soundlink_revolve_bluetooth_speaker_1331925.jpg",
+    "https://i.rtings.com/assets/products/GNHnR51M/bose-soundlink-revolve/design-large.jpg",
+    "https://dummyjson.com/image/i/products/29/thumbnail.jpg"
+  ]
+},
+{
+  "id": "30",
+  "title": "JBL Flip 5",
+  "description": "Waterproof Bluetooth speaker",
+  "price": 129,
+  "discountPercentage": 8.75,
+  "rating": 4.4,
+  "stock": 100,
+  "brand": "JBL",
+  "category": "audio",
+  "thumbnail": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0f04277a/JBL_Flip5_Hero_Blue_001_X2-1605x1605px.png",
+  "images": [
+    "https://www.want.nl/wp-content/uploads/2019/10/JBL-Flip-5-review-11.jpg",
+    "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwdad639b6/JBL_Flip5_Product%20Photo_Side_DustyPink-1605x1605-DS3.png",
+    "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw0f04277a/JBL_Flip5_Hero_Blue_001_X2-1605x1605px.png"
+  ]
+},
+{
+  "id": "31",
+  "title": "Apple Watch Series 6",
+  "description": "Advanced smartwatch with health monitoring",
+  "price": 399,
+  "discountPercentage": 5.5,
+  "rating": 4.9,
+  "stock": 60,
+  "brand": "Apple",
+  "category": "wearables",
+  "thumbnail": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series-6-stainless-steel-gold-case_09152020_inline.jpg.large_2x.jpg",
+  "images": [
+    "https://www.bhphotovideo.com/images/images2500x2500/apple_m07q3ll_a_watch_series_6_gps_1594622.jpg",
+    "https://cdn0.vox-cdn.com/hermano/verge/product/image/9407/Screen_Shot_2020-09-30_at_2.50.22_PM.png",
+    "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series-6-stainless-steel-gold-case_09152020_inline.jpg.large_2x.jpg"
+  ]
+},
+{
+  "id": "32",
+  "title": "Samsung Galaxy Watch 3",
+  "description": "Stylish smartwatch with health features",
+  "price": 349,
+  "discountPercentage": 6.25,
+  "rating": 4.6,
+  "stock": 85,
+  "brand": "Samsung",
+  "category": "wearables",
+  "thumbnail": "https://image-us.samsung.com/SamsungUS/home/mobile/wearables/smartwatches/pdp/galaxy-watch3/08-13-2020/gallery-01-110534-lte_sm-r850_galaxy_watch_3_41mm_mystic_bronze_v_front-1600x1200.jpg",
+  "images": [
+    "https://media.s-bol.com/3ojpAnWA61Q/886x1200.jpg",
+    "https://c1.neweggimages.com/ProductImageCompressAll1280/86-508-219-V12.jpg",
+    "https://image-us.samsung.com/SamsungUS/home/mobile/wearables/smartwatches/pdp/galaxy-watch3/08-13-2020/gallery-01-110534-lte_sm-r850_galaxy_watch_3_41mm_mystic_bronze_v_front-1600x1200.jpg"
+  ]
+},
+{
+  "id": "33",
+  "title": "GoPro Hero 9",
+  "description": "4K action camera with advanced features",
+  "price": 399,
+  "discountPercentage": 7.5,
+  "rating": 4.8,
+  "stock": 40,
+  "brand": "GoPro",
+  "category": "cameras",
+  "thumbnail": "https://www.cameralabs.com/wp-content/uploads/2020/09/gopro-hero-9-black-hero-1.jpg",
+  "images": [
+    "https://www.canosa.com.hr/slike/velike/gopro-hero9-black-chdhx-901-rw-0818279026252_2.jpg",
+    "https://res-5.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1280,q_auto,w_1280/v1600703377/w3qbobl36ahnmowjxjlb.png",
+    "https://www.cameralabs.com/wp-content/uploads/2020/09/gopro-hero-9-black-hero-1.jpg"
+  ]
+},
+{
+  "id": "34",
+  "title": "Canon EOS 90D",
+  "description": "High-performance DSLR camera",
+  "price": 1199,
+  "discountPercentage": 8,
+  "rating": 4.9,
+  "stock": 30,
+  "brand": "Canon",
+  "category": "cameras",
+  "thumbnail": "https://photorumors.com/wp-content/uploads/2019/08/Canon-EOS-90D-camera-1-1.jpg",
+  "images": [
+    "https://www.shop.supergroup.pk/wp-content/uploads/2021/01/camera.png",
+    "https://www.ephotozine.com/articles/canon-eos-90d-review-34051/images/highres-Canon-EOS-90D-DSLR-3_1569853774.jpg",
+    "https://photorumors.com/wp-content/uploads/2019/08/Canon-EOS-90D-camera-1-1.jpg"
+  ]
+},
+{
+  "id": "35",
+  "title": "Sony Alpha 7 III",
+  "description": "Mirrorless camera with stunning image quality",
+  "price": 1999,
+  "discountPercentage": 5.5,
+  "rating": 4.8,
+  "stock": 15,
+  "brand": "Sony",
+  "category": "cameras",
+  "thumbnail": "https://media.test-achats.be/images/A159425AF68227CE46C771B99B10C11ECFF4222D/c4/Appareils-photo-SONY-ALPHA-7-III-plus-FE-28-70MM-F35-56-OSS-1-zoom.jpg",
+  "images": [
+    "https://media.test-aankoop.be/images/BABE0C0B9F839F944859CB4EFBD26EAA86714370/c4/Fototoestellen-SONY-ALPHA-7-III-plus-FE-28-70MM-F35-56-OSS-zoom.jpg",
+    "https://www.bhphotovideo.com/images/images2500x2500/sony_alpha_a7_iii_mirrorless_1395510.jpg",
+    "https://media.test-achats.be/images/A159425AF68227CE46C771B99B10C11ECFF4222D/c4/Appareils-photo-SONY-ALPHA-7-III-plus-FE-28-70MM-F35-56-OSS-1-zoom.jpg"
+  ]
+},
+{
+  "id": "36",
+  "title": "DJI Mavic Air 2",
+  "description": "Compact drone with 4K camera",
+  "price": 799,
+  "discountPercentage": 9,
+  "rating": 4.7,
+  "stock": 25,
+  "brand": "DJI",
+  "category": "drones",
+  "thumbnail": "https://www.bhphotovideo.com/images/images2500x2500/dji_cp_ma_00000167_03_mavic_air_2_fly_1558185.jpg",
+  "images": [
+    "https://www.phillybyair.com/wp-content/uploads/2020/10/Mavic-Air-2-11-1536x1482.png",
+    "https://i.ytimg.com/vi/FcFKkmmT68o/maxresdefault.jpg",
+    "https://www.bhphotovideo.com/images/images2500x2500/dji_cp_ma_00000167_03_mavic_air_2_fly_1558185.jpg"
+  ]
+},
+{
+  "id": "37",
+  "title": "Apple AirPods Pro",
+  "description": "Active noise-cancelling wireless earphones",
+  "price": 249,
+  "discountPercentage": 10,
+  "rating": 4.7,
+  "stock": 100,
+  "brand": "Apple",
+  "category": "audio",
+  "thumbnail": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5706/5706659cv12d.jpg",
+  "images": [
+    "https://i5.walmartimages.com/seo/Apple-AirPods-Pro-2nd-Generation-Lightning_7e8598be-0a04-4938-98be-765f1fe80447.2f2187eed7001354fb4911fe454dc0d2.jpeg",
+    "https://www.soundguys.com/wp-content/uploads/2022/09/Apple-AirPods-Pro-2nd-generation-true-wireless-earbuds-stem-control-hand-scaled-1536x864.jpg",
+    "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5706/5706659cv12d.jpg"
+  ]
+},
+{
+  "id": "38",
+  "title": "Beats Solo Pro",
+  "description": "Wireless noise-cancelling on-ear headphones",
+  "price": 299,
+  "discountPercentage": 12,
+  "rating": 4.5,
+  "stock": 75,
+  "brand": "Beats",
+  "category": "audio",
+  "thumbnail": "https://applepremiumstore.com.ng/wp-content/uploads/2014/08/MRJ82_AV4.png",
+  "images": [
+    "https://images.idgesg.net/images/article/2019/10/beats-solo-pro-hero-100815960-large.jpg",
+    "https://images.idgesg.net/images/article/2019/10/beats-solo-pro-gap-100815958-orig.jpeg",
+    "https://applepremiumstore.com.ng/wp-content/uploads/2014/08/MRJ82_AV4.png"
+  ]
+},
+{
+  "id": "39",
+  "title": "Microsoft Surface Laptop 3",
+  "description": "Sleek laptop with touchscreen display",
+  "price": 999,
+  "discountPercentage": 7.5,
+  "rating": 4.6,
+  "stock": 60,
+  "brand": "Microsoft",
+  "category": "laptops",
+  "thumbnail": "https://i.rtings.com/assets/products/oAn3VoYd/microsoft-surface-laptop-3-15-2019/design-medium.jpgs",
+  "images": [
+    "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6374/6374338cv14d.jpg",
+    "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6374/6374338cv14d.jpg",
+    "https://i.rtings.com/assets/products/oAn3VoYd/microsoft-surface-laptop-3-15-2019/design-medium.jpg"
+  ]
+},
+{
+  "id": "40",
+  "title": "Razer Blade 15",
+  "description": "Powerful gaming laptop with 144Hz display",
+  "price": 1999,
+  "discountPercentage": 6.25,
+  "rating": 4.7,
+  "stock": 35,
+  "brand": "Razer",
+  "category": "laptops",
+  "thumbnail": "https://thetechrevolutionist.com/wp-content/uploads/2019/08/IMG_20190803_153109.jpg",
+  "images": [
+    "https://thetechrevolutionist.com/wp-content/uploads/2019/08/IMG_20190803_153212-1024x795.jpg",
+    "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/09/Razer-Blade-15-2027-scaled-e1599558753974.jpg",
+    "https://thetechrevolutionist.com/wp-content/uploads/2019/08/IMG_20190803_153109.jpg"
+  ]
+},
